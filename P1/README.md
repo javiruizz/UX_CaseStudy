@@ -1,6 +1,6 @@
 ## DIU - Practica1, entregables
 
-- ![User_Research](USER RESEARCH PLAN.pdf)
+- ![User_Research](USER_RESEARCH_PLAN.pdf)
 - Desk research: Análisis Competencia 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
