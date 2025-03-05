@@ -7,7 +7,7 @@
 - 2 Personas
   ![Persona_1](Rocío_Rodríguez.png)
 - 2 User Journey Map  ( 1 por persona)
-- ![Journey_Map](User_Journey_Map_1.png)
+  ![Journey_Map](User_Journey_Map_1.png)
 - Revisión de Usabilidad 
 
 
