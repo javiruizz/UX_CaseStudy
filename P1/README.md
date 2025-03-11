@@ -64,9 +64,13 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 
 ## 5. USABILY REVIEW
 
+[Poner aqui el usabily reserach]
+
 <br>
 
 ## 6. VALORACIÓN DE LA PRÁCTICA
+
+"Escribir una valoración de como hemos realizado la práctica"
 
 <br>
 
