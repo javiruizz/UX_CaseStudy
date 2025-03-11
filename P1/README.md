@@ -27,6 +27,7 @@ Para más detalle pulsar este enlace -> ![ENLACE](USER_RESEARCH_PLAN.pdf)
 ---
 Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una persona de edad avanzada que no termina de estar familiarizada del todo con las tecnologías. De esta forma, podemos ver la página desde otra perspectiva que nos permite ver distintos puntos a mejorar para que la experiencia de todo el mundo sea la óptima. Por último, su pasión por la cocina la hace una clienta ideal, al ser uno de los principales servicios de la página la venta de alimentos ecológicos y frescos.
 <br>
+![Persona_2](Pablo_Gomez.png)
 
 
 
@@ -40,9 +41,7 @@ Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una
   ![Analisis_comp](Competitor_Analysis.png)
   - Justificación de la elegida ->  ![ENLACE](Justificacion_Competitor_Analysis.pdf)
 - 2 Personas
-  primera persona
-  ![Persona_1](User_Rocío_Rodríguez.png)
-  - Justificación de la persona de Rocío Rodríguez -> ![ENLACE](Justificacion_Rocio_Rodriguez.pdf)
+  primera perso
 
   segunda persona
   ![Persona_2](Pablo_Gomez.png)
