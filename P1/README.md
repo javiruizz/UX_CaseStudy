@@ -50,29 +50,18 @@ Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha 
 <br>
 
 ## 4. COMPETITIVE ANALYSIS
+![Analisis_comp](Competitor_Analysis.png)
+---
+Para comenzar, de entre los casos propuestos nos hemos decantado por Valle&Vega (https://valleyvega.org/) , la cual es una asociación para la producción y comercialización kilómetro 0 de alimentación ecológica en la provincia de Granada. La razón por la que hemos elegido está es debido a que nos ha llamado más la atención, además de parecernos buenísima idea para dar a conocer comercios locales o incluso ganaderos y  agricultores de nuestra propia provincia, sirviendo como impulso para la economía y en consecuencia su crecimiento y expansión.
+
+A continuación, para hacer el competitive analysis hemos elegido las siguientes páginas, Bioencasa (https://bioencasa.es/) y EcoJaral (https://ecojaral.com/) . Ambas son páginas que ofrecen una amplia variedad de productos ecológicos de la provincia de Granada. El motivo de esta elección es que ambas comparten muchas similitudes, al proporcionar productos que provienen de nuestra propia provincia al igual que Valle&Vega.
+
+Haciendo un breve resumen,en Bioenacasa podemos observar que aunque ofrece casi la misma variedad de productos que Valle&Vega, está pagina ofrece un diseño más llamativo y claro, haciéndola más intuitiva además de ofrecer otros servicios no presentes en Valle&Vega como pueden ser repartos a domicilio. Por otra parte Ecojaral tmabién presenta una página más clara e intuitiva que en Valle&Vega, por no hablar de que implementa una buena mecánica para mejorar la experiencia de los usuarios como son los puntos de fidelidad.
+
+Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que está es la más completa y la que nos va a ayudar más a la hora de implementar mejoras.
 
 
 
-
-
-
-
-
-
-
-
-- Desk research: Análisis Competencia
-  ![Analisis_comp](Competitor_Analysis.png)
-  - Justificación de la elegida ->  ![ENLACE](Justificacion_Competitor_Analysis.pdf)
-- 2 Personas
-  primera perso
-
-  segunda persona
-  ![Persona_2](Pablo_Gomez.png)
-- 2 User Journey Map  ( 1 por persona)
-  ![Journey_Map](User_Journey_Map_1.png)
-  - Justificación del User Journey Map de Rocío Rodríguez -> ![ENLACE](Justificacion_Rocio_Rodriguez.pdf)
-- Revisión de Usabilidad 
 
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
