@@ -12,7 +12,7 @@
   segunda persona
   ![Persona_2](Pablo_Gomez.png)
 - 2 User Journey Map  ( 1 por persona)
-  ![Journey_Map](User_Journey_Map_Rocío.png)
+  ![Journey_Map](User_Journey_Map_1.png)
   - Justificación del User Journey Map de Rocío Rodríguez -> ![ENLACE](Justificacion_Rocio_Rodriguez.pdf)
 - Revisión de Usabilidad 
 
