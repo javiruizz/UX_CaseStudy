@@ -19,6 +19,7 @@ Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que com
 
 Para más detalle pulsar este enlace -> ![ENLACE](USER_RESEARCH_PLAN.pdf)
 <br>
+<br>
 
 ## 2. PERSONAS
 
