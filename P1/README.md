@@ -1,12 +1,18 @@
 # DIU - Practica1, entregables
 
-Grupo: DIU1.JaviManuel  Curso: 2024/25
+Grupo: DIU1.JaviManuel Curso: 2024/25
 
 Miembros:
  * :bust_in_silhouette:  Javier Ruiz Mondragón    :octocat:     
  * :bust_in_silhouette:  Manuel Jesús Junquera Lobón    :octocat:
-
+<br>
+ 
 ## 1. USER RESEARCH PLAN 
+
+
+
+
+
 
 - USER RESEARCH PLAN ->  ![ENLACE](USER_RESEARCH_PLAN.pdf)
 - Desk research: Análisis Competencia
