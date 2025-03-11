@@ -29,6 +29,13 @@ Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una
 <br>
 
 ![Persona_2](Pablo_Gomez.png)
+---
+"Poner justificación de porque se ha elegido a Pablo como persona"
+
+<br>
+
+## 3. EXPERIENCE JOURNEY MAP
+
 
 
 
