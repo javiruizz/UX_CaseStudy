@@ -43,7 +43,13 @@ Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha 
 
 <br>
 
+[Foto del journey map de Pablo]
+---
+"Poner justificación del journey map de Pablo"
 
+<br>
+
+## 4. COMPETITIVE ANALYSIS
 
 
 
