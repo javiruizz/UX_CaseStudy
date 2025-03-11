@@ -13,7 +13,7 @@ Este proyecto consiste en la realización del análisis de una página web que o
 
 Para la realización de esté análisis se van a establecer una serie de objetivos que se pretenden cumplir, entre ellos encontramos objetivos de distintos tipos como pueden ser comerciales, económicos, personales y otros distintos. Algunos ejemplos de este tipo de objetivos pueden ser mejorar los beneficios y el número de usuarios, garantizar la seguridad y la protecciónd de datos y un crecimiento profesional junto con la mejora de aptitudes como el pensamineto crítico y la capacidad de resolución de problemas.
 
-En adición, también se va a establecer que tipo de información se desea recolectar además de los distintos métodos de investigación que se van a emplear. Por no hablar de la importancia de realizar un estudio de los posibles partcipantes/usuarios así como del estudio de la competencia.
+En adición, también se va a establecer que tipo de información se desea recolectar además de los distintos métodos de investigación que se van a emplear. Por no hablar de la importancia de realizar un estudio de los posibles participantes/usuarios así como del estudio de la competencia.
 
 Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que como interesados y observadores tenemos bastante experienca ya que nosotros mismos y gente de nuestro alrededor realiza diariamente compras de productos a través de internet. Por otra parte, como diseñadores es cierto que no contamos con mucha experinecia con este tipo de aplicaciones.
 
@@ -23,6 +23,7 @@ Para más detalle pulsar este enlace -> ![ENLACE](USER_RESEARCH_PLAN.pdf)
 
 ## 2. PERSONAS
 
+![Persona_1](User_Rocío_Rodríguez.png)
 
 
 
@@ -30,7 +31,8 @@ Para más detalle pulsar este enlace -> ![ENLACE](USER_RESEARCH_PLAN.pdf)
 
 
 
-- USER RESEARCH PLAN ->  ![ENLACE](USER_RESEARCH_PLAN.pdf)
+
+
 - Desk research: Análisis Competencia
   ![Analisis_comp](Competitor_Analysis.png)
   - Justificación de la elegida ->  ![ENLACE](Justificacion_Competitor_Analysis.pdf)
