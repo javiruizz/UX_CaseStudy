@@ -60,9 +60,13 @@ Haciendo un breve resumen,en Bioenacasa podemos observar que aunque ofrece casi 
 
 Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que está es la más completa y la que nos va a ayudar más a la hora de implementar mejoras.
 
+<br>
 
+## 5. USABILY REVIEW
 
+<br>
 
+## 6. VALORACIÓN DE LA PRÁCTICA
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+<br>
+
