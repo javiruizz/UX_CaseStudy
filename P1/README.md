@@ -6,7 +6,7 @@
   - Justificación de la elegida ->  ![ENLACE](Justificacion_Competitor_Analysis.pdf)
 - 2 Personas
   primera persona
-  ![Persona_1](Rocío_Rodríguez.png)
+  ![Persona_1](Rocío Rodríguez.png)
   - Justificación de la persona de Rocío Rodríguez -> ![ENLACE](Justificacion_Rocio_Rodriguez.pdf)
 
   segunda persona
