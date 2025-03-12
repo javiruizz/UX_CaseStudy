@@ -43,7 +43,7 @@ Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha 
 
 <br>
 
-[Foto del journey map de Pablo]
+![Journey_Map](Journey_map_pablo_gomez.png)
 ---
 "Poner justificación del journey map de Pablo"
 
