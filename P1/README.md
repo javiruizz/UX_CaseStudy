@@ -17,7 +17,7 @@ En adición, también se va a establecer que tipo de información se desea recol
 
 Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que como interesados y observadores tenemos bastante experienca ya que nosotros mismos y gente de nuestro alrededor realiza diariamente compras de productos a través de internet. Por otra parte, como diseñadores es cierto que no contamos con mucha experinecia con este tipo de aplicaciones.
 
-Para más detalle pulsar este enlace -> ![ENLACE](USER_RESEARCH_PLAN.pdf)
+Para más detalle pulsar este enlace -> [ENLACE](USER_RESEARCH_PLAN.pdf)
 <br>
 
 ## 2. PERSONAS
