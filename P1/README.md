@@ -26,7 +26,7 @@ Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una
 
 ![Persona_1](User_Rocío_Rodríguez.png)
 
----
+
 Hemos escogido a Pablo como persona ya que refleja el perfil de una persona deportista que además tiene conocimientos médicos, por lo que le gusta estar informado de los mejores productos para sus pacientes. Él, a diferencia de Rocío si tiene manejo de la tecnología, está acostumbrado a tratar con interfaces de usuario, motivo por el que es más exigente con las IU que Rocío. El suegro de Pablo está enfermo, necesita hacer una dieta saludable, así que Pablo le hace la compra.
 
 ![Persona_2](Pablo_Gomez.png)
@@ -38,7 +38,7 @@ Hemos escogido a Pablo como persona ya que refleja el perfil de una persona depo
 <br>
 Rocío se ha visto en la necesidad de adentrarse en internet para encontrar productos locales de gran calidad, en consecuencia, se ha encontrado con la página web Valle&Vega.
 Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha costado un poco encontrar los productos que buscaba además de tener problemas con el proceso de compra, aunque al final haya conseguido su objetivo en el tiempo que buscaba. Este caso es un poco especial ya que aunque Rocío se haya quedado con un mal sabor de boca,planteándose si volver a usar la web, hay que tener en cuenta la edad de Rocío y que no está muy familiarizada con la tecnología, aun así, nos aporta una visión distinta que nos puede ayudar a la hora de encontrar ideas para mejorar la página y la experiencia de los usuarios.
----
+
 
 ![Journey_Map](User_Journey_Map_1.png)
 
