@@ -68,7 +68,8 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 
 ## 6. VALORACIÓN DE LA PRÁCTICA
 
-"Escribir una valoración de como hemos realizado la práctica"
+En esta práctica hemos analizado de forma extensa 3 páginas webs relacionadas con el comercio ecológico apoyándonos en unas plantillas proporcionadas por el profesorado de la asignatura. Una vez analizadas, hemos dedicido quedarnos con una de ellas(Bioencasa), A continuación, hemos desarrollado 2 personajes ficticios para poder evaluar la experiencia de usuarion desde la perspectiva de ellos. Esto nos ha ayudado mucho a poder ponernos en un punto de vista externo y diferente al nuestro para poder hacernos una idea de las distintas fallas y problemas que podrían encontrar, lo que nos ha ayudado a empatizar con nuestros personajes.
+En definitiva, esta práctica nos ha servido para familiarizarnos con el diseño de interfaces de usuario y cómo podemos mejorarlas.
 
 <br>
 
