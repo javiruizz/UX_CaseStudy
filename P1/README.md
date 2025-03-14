@@ -63,6 +63,7 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 ## 5. USABILY REVIEW
 
 [ENLACE A USABILY REVIEW](Usability-review.pdf)
+Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100
 
 <br>
 
