@@ -45,7 +45,7 @@ Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha 
 
 ![Journey_Map](Journey_map_pablo_gomez.png)
 ---
-"Poner justificación del journey map de Pablo"
+Pablo está acostumbrado a hacer la compra de su suegro Luis, el cual padece una enfermedad instestinal y no puede hacerla por si mismo. Él lo ayuda a elegir los productos correctos. Un día, Luis le pide a Pablo que le haga la compra. Él, como andaba un poco justo de tiempo, busca en internet y se encuentra con la web de Bioencasa. En dicha web encuentra los productos que iba buscando y la interfaz le permite satisfacer las necesidades fundamentales que tenía. Sin embargo, Pablo estaba un poco irascible debido
 
 <br>
 
