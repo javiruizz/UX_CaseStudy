@@ -64,7 +64,8 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 
 [ENLACE A USABILY REVIEW](Usability-review.pdf)
 <br>
-Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100
+Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100, destacando positivamente en la mayoría de apartados. La página podría mejorar ofreciendo diferentes níveles de usabilidad para diferentes usuarios y permitiendo hacer una configuración adaptada al usuario.
+Debería ofrecer una explicación más extensa cuando cometemos un error en los formularios, ofreciendo ayuda, como ekemplos de qué debería de poner. Además, estaría muy bien que ofreciera busquedas avanzadas como, por ejemplo, productos más comprados, más recientes, mejor valorados, etc.
 
 <br>
 
