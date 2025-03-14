@@ -35,34 +35,30 @@ Hemos escogido a Pablo como persona ya que refleja el perfil de una persona depo
 <br>
 
 ## 3. EXPERIENCE JOURNEY MAP
-<br>
+
 Rocío se ha visto en la necesidad de adentrarse en internet para encontrar productos locales de gran calidad, en consecuencia, se ha encontrado con la página web Valle&Vega.
 Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha costado un poco encontrar los productos que buscaba además de tener problemas con el proceso de compra, aunque al final haya conseguido su objetivo en el tiempo que buscaba. Este caso es un poco especial ya que aunque Rocío se haya quedado con un mal sabor de boca,planteándose si volver a usar la web, hay que tener en cuenta la edad de Rocío y que no está muy familiarizada con la tecnología, aun así, nos aporta una visión distinta que nos puede ayudar a la hora de encontrar ideas para mejorar la página y la experiencia de los usuarios.
-
 
 ![Journey_Map](User_Journey_Map_1.png)
 
 
-<br>
 Pablo está acostumbrado a hacer la compra de su suegro Luis, el cual padece una enfermedad instestinal y no puede hacerla por si mismo. Él lo ayuda a elegir los productos correctos. Un día, Luis le pide a Pablo que le haga la compra. Él, como andaba un poco justo de tiempo, busca en internet y se encuentra con la web de Bioencasa. En dicha web encuentra los productos que iba buscando y la interfaz le permite satisfacer las necesidades fundamentales que tenía. Sin embargo, Pablo estaba un poco irascible debido a la falta de tiempo, por lo que le molestó bastante que le apareciera todo el rato un pop-up cada vez que añadía un producto a la cesta y el hecho de que le pidan que se creara una cuenta en la web para poder hacer su pedido.
 
 ![Journey_Map](Journey_map_pablo_gomez.png)
 
-<br>
 
 ## 4. COMPETITIVE ANALYSIS
 
 Para comenzar, de entre los casos propuestos nos hemos decantado por Valle&Vega (https://valleyvega.org/) , la cual es una asociación para la producción y comercialización kilómetro 0 de alimentación ecológica en la provincia de Granada. La razón por la que hemos elegido está es debido a que nos ha llamado más la atención, además de parecernos buenísima idea para dar a conocer comercios locales o incluso ganaderos y  agricultores de nuestra propia provincia, sirviendo como impulso para la economía y en consecuencia su crecimiento y expansión.
 
 A continuación, para hacer el competitive analysis hemos elegido las siguientes páginas, Bioencasa (https://bioencasa.es/) y EcoJaral (https://ecojaral.com/) . Ambas son páginas que ofrecen una amplia variedad de productos ecológicos de la provincia de Granada. El motivo de esta elección es que ambas comparten muchas similitudes, al proporcionar productos que provienen de nuestra propia provincia al igual que Valle&Vega.
----
+
 ![Analisis_comp](Competitor_Analysis.png)
----
+
 Haciendo un breve resumen,en Bioenacasa podemos observar que aunque ofrece casi la misma variedad de productos que Valle&Vega, está pagina ofrece un diseño más llamativo y claro, haciéndola más intuitiva además de ofrecer otros servicios no presentes en Valle&Vega como pueden ser repartos a domicilio. Por otra parte Ecojaral tmabién presenta una página más clara e intuitiva que en Valle&Vega, por no hablar de que implementa una buena mecánica para mejorar la experiencia de los usuarios como son los puntos de fidelidad.
 
 Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que está es la más completa y la que nos va a ayudar más a la hora de implementar mejoras.
 
-<br>
 
 ## 5. USABILY REVIEW
 
