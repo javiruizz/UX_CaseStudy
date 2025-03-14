@@ -65,13 +65,14 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 [ENLACE A USABILY REVIEW](Usability-review.pdf)
 <br>
 Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100, destacando positivamente en la mayoría de apartados. La página podría mejorar ofreciendo diferentes níveles de usabilidad para diferentes usuarios y permitiendo hacer una configuración adaptada al usuario.
-Debería ofrecer una explicación más extensa cuando cometemos un error en los formularios, ofreciendo ayuda, como ekemplos de qué debería de poner. Además, estaría muy bien que ofreciera busquedas avanzadas como, por ejemplo, productos más comprados, más recientes, mejor valorados, etc.
+Debería ofrecer una explicación más extensa cuando cometemos un error en los formularios, ofreciendo ayuda, como ejemplos sobre qué debería de poner. Además, estaría muy bien que ofreciera busquedas avanzadas como, por ejemplo, productos más comprados, más recientes, mejor valorados, etc.
 
 <br>
 
 ## 6. VALORACIÓN DE LA PRÁCTICA
 
-En esta práctica hemos analizado de forma extensa 3 páginas webs relacionadas con el comercio ecológico apoyándonos en unas plantillas proporcionadas por el profesorado de la asignatura. Una vez analizadas, hemos dedicido quedarnos con una de ellas(Bioencasa), A continuación, hemos desarrollado 2 personajes ficticios para poder evaluar la experiencia de usuarion desde la perspectiva de ellos. Esto nos ha ayudado mucho a poder ponernos en un punto de vista externo y diferente al nuestro para poder hacernos una idea de las distintas fallas y problemas que podrían encontrar, lo que nos ha ayudado a empatizar con nuestros personajes.
+En esta práctica hemos analizado de forma extensa 3 páginas webs relacionadas con el comercio ecológico apoyándonos en unas plantillas proporcionadas por el profesorado de la asignatura. Una vez analizadas, hemos dedicido quedarnos con una de ellas(Bioencasa), A continuación, hemos desarrollado 2 personajes ficticios para poder evaluar la experiencia de usuarios desde la perspectiva de ellos. Esto nos ha ayudado mucho a poder ponernos en un punto de vista externo y diferente al nuestro para poder hacernos una idea de las distintas fallas y problemas que podrían encontrar, lo que nos ha ayudado a empatizar con nuestros personajes.
+En cuanto a la distribución del trabajo, nos lo hemos repartido todo de manera equitativa además de que hemos trabajo muy bien sin tener ningun tipo de problema. Apoyandonos entre nosotros cuando teniamos algún tipo de duda o algo no nos quedaba claro.
 En definitiva, esta práctica nos ha servido para familiarizarnos con el diseño de interfaces de usuario y cómo podemos mejorarlas.
 
 <br>
