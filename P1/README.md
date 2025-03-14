@@ -23,7 +23,7 @@ Para más detalle pulsar este enlace -> [ENLACE](USER_RESEARCH_PLAN.pdf)
 ## 2. PERSONAS
 
 Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una persona de edad avanzada que no termina de estar familiarizada del todo con las tecnologías. De esta forma, podemos ver la página desde otra perspectiva que nos permite ver distintos puntos a mejorar para que la experiencia de todo el mundo sea la óptima. Por último, su pasión por la cocina la hace una clienta ideal, al ser uno de los principales servicios de la página la venta de alimentos ecológicos y frescos.
----
+
 ![Persona_1](User_Rocío_Rodríguez.png)
 
 <br>
