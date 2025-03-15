@@ -29,7 +29,7 @@ Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una
 
 Hemos escogido a Pablo como persona ya que refleja el perfil de una persona deportista que además tiene conocimientos médicos, por lo que le gusta estar informado de los mejores productos para sus pacientes. Él, a diferencia de Rocío sí tiene manejo de la tecnología, está acostumbrado a tratar con interfaces de usuario, motivo por el que es más exigente con las IU que Rocío. El suegro de Pablo está enfermo, necesita hacer una dieta saludable, así que Pablo le hace la compra.
 
-![Persona_2](Pablo_Gomez.png)
+![Persona_2](User_Pablo_Gomez.png)
 
 
 <br>
