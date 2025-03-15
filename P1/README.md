@@ -60,9 +60,9 @@ Haciendo un breve resumen, en Bioencasa podemos observar que aunque ofrece casi 
 Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que está es la más completa y la que nos va a ayudar más a la hora de implementar mejoras.
 
 
-## 5. USABILY REVIEW
+## 5. USABILITY REVIEW
 
-[ENLACE A USABILY REVIEW](Usability-review.pdf)
+[ENLACE A USABILITY REVIEW](Usability-review.pdf)
 
 Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100, destacando positivamente en la mayoría de apartados. La página podría mejorar ofreciendo diferentes níveles de usabilidad para diferentes usuarios y permitiendo hacer una configuración adaptada al usuario.
 
