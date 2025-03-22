@@ -10,7 +10,12 @@ Miembros:
 ## 1. Ideación
 ### 1.1 Malla receptora de información
 
-[incluir justificación]
+Vamos a realizar una malla receptora de información donde utilizaremos toda la información obtenida de nuestras personas así como aquella
+ que tenemos nosotros mismos, es decir, nuestra experiencia y la que hemos obtenido de las distintas páginas analizadas anteriormente. Dicha malla se va a dividir en cuatro apartados principales que hemos considerado los más importantes:
+ * Aspectos positivos (Worked) -> son cosas que sabemos que funcionan y que hemos podido observar distintas páginas web.
+ * Críticas constructivas (Change) -> son cosas a tener en cuenta para cambiar y mejorar en el futuro.
+ * Preguntas de usuario (Questions) -> posibles preguntas que se pueden hacer los usuarios
+ * Ideas de mejora (Ideas) -> son las ideas que nos gustaría implementar o al menos tener en cuenta en el futuro desarrollo.
 
 ![FeedBackCaptureGrid](FeedbackCaptureGrid.png)
 
