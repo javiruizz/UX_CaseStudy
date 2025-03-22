@@ -1,33 +1,53 @@
-## DIU - Practica2, entregables
+# DIU - Practica2, entregables
 
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+Grupo: DIU1.JaviManuel Curso: 2024/25
 
+Miembros:
+ * :bust_in_silhouette:  Javier Ruiz Mondragón    :octocat:     
+ * :bust_in_silhouette:  Manuel Jesús Junquera Lobón    :octocat:
+<br>
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
-
-
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
+## 1. Ideación
+# 1.1 Malla receptora de información
 
 
-### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+# 1.2 Mapa de empatía
 
 
-### Prototipo Lo-FI Wireframe 
+
+# 1.3 Point of View 
 
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+
+## 2. Propuesta de valor
+# 2.1 ScopeCanvas
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+## 3. Task Analysis
+# 3.1 User Task Matrix
+
+
+
+#3.2 User/Task Flow
+
+
+
+## 4. Arquitectura de información
+# 4.1 Sitemap
+
+
+
+# 4.2 Labelling
+
+
+
+## 5. Prototipo Lo-FI Wireframe 
+
+
+
+## 6. Conclusiones  
+[incluye valoración de esta etapa]
+
+
