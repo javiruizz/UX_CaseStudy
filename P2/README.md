@@ -8,38 +8,38 @@ Miembros:
 <br>
 
 ## 1. Ideación
-# 1.1 Malla receptora de información
+### 1.1 Malla receptora de información
 
 [incluir contenido]
 
-# 1.2 Mapa de empatía
+### 1.2 Mapa de empatía
 
 [incluir contenido]
 
-# 1.3 Point of View 
+### 1.3 Point of View 
 
 [incluir contenido]
 
 ## 2. Propuesta de valor
-# 2.1 ScopeCanvas
+### 2.1 ScopeCanvas
 
 [incluir contenido]
 
 ## 3. Task Analysis
-# 3.1 User Task Matrix
+### 3.1 User Task Matrix
 
 [incluir contenido]
 
-#3.2 User/Task Flow
+### 3.2 User/Task Flow
 
 [incluir contenido]
 
 ## 4. Arquitectura de información
-# 4.1 Sitemap
+### 4.1 Sitemap
 
 [incluir contenido]
 
-# 4.2 Labelling
+### 4.2 Labelling
 
 [incluir contenido]
 
