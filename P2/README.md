@@ -45,7 +45,9 @@ Para entender el mapa es necesario tener en cuenta la siguiente leyenda:
 ## 2. Propuesta de valor
 ### 2.1 ScopeCanvas
 
-[incluir justificación]
+Con esta propuesta de valor se pretende explicar en que consiste nuestro proyecto, para ello, se van a tratar distintos puntos a destacar como 
+las necesidades de nuestros usuarios, objetivos que queremos lograr como organización tanto a largo como a corto plazo, nuestro propósito general,
+acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van a tener en cuenta a la hora de analizar el progreso del proyecto.
 
 ![ScopeCanvas](ScopeCanvas.png)
 
