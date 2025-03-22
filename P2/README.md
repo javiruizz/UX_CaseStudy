@@ -10,11 +10,15 @@ Miembros:
 ## 1. Ideación
 ### 1.1 Malla receptora de información
 
-[incluir contenido]
+[incluir justificación]
+
+![FeedBackCaptureGrid](FeedbackCaptureGrid.png)
 
 ### 1.2 Mapa de empatía
 
-[incluir contenido]
+[incluir justificación]
+
+![EmpathyMapping](EmpathyMapping.png)
 
 ### 1.3 Point of View 
 
@@ -23,7 +27,9 @@ Miembros:
 ## 2. Propuesta de valor
 ### 2.1 ScopeCanvas
 
-[incluir contenido]
+[incluir justificación]
+
+![ScopeCanvas](ScopeCanvas.png)
 
 ## 3. Task Analysis
 ### 3.1 User Task Matrix
