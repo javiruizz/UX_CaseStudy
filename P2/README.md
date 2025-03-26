@@ -38,9 +38,6 @@ Para entender el mapa es necesario tener en cuenta la siguiente leyenda:
 
 ![EmpathyMapping](EmpathyMapping.png)
 
-### 1.3 Point of View 
-
-[incluir contenido]
 
 ## 2. Propuesta de valor
 ### 2.1 ScopeCanvas
