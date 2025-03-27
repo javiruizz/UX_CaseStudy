@@ -46,7 +46,7 @@ Con esta propuesta de valor se pretende explicar en que consiste nuestro proyect
 las necesidades de nuestros usuarios, objetivos que queremos lograr como organización tanto a largo como a corto plazo, nuestro propósito general,
 acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van a tener en cuenta a la hora de analizar el progreso del proyecto.
 
-[ScopeCanvas](ScopeCanvas.png)
+[ScopeCanvas](ScopeCanvas.pdf)
 
 ## 3. Task Analysis
 ### 3.1 User Task Matrix
