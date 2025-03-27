@@ -38,9 +38,12 @@ Para entender el mapa es necesario tener en cuenta la siguiente leyenda:
 
 ![EmpathyMapping](EmpathyMapping.png)
 
+### 1.3 Conclusiones
+Antes de comenzar con el diseñó de nuestro proyecto, vamos a realizar un resumen de las cosas más importantes que hemos visto. En la malla receptora de información hemos podido
+observar ideas que ya funcionan las cual se van a implemetar y por otro lado tambien se nos han ocurrido algunas nuevas que nos gustaría poner en marcha como el servicio de reparto express o la venta de platos preparados. A continucación, hemos podido obetern del mapa de empatía una idea de lo que piensa y hace la gente, donde caben destacar algunos puntos como las difucltades que tienen algunas personas como la desconfianza hacia un servicio o los malos comentarios, mientras que por otro lado tenemos puntos positivos a nombrar como las variedad de productos y la venta de productos frescos,locales y saludables.
 
-## 2. Propuesta de valor
-### 2.1 ScopeCanvas
+## 2. Primeros pasos de diseño
+### 2.1 ScopeCanvas (Propuesta de valor)
 
 Con esta propuesta de valor se pretende explicar en que consiste nuestro proyecto, para ello, se van a tratar distintos puntos a destacar como 
 las necesidades de nuestros usuarios, objetivos que queremos lograr como organización tanto a largo como a corto plazo, nuestro propósito general,
