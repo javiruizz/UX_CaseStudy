@@ -103,6 +103,5 @@ Procedemos a hacer los diseños de los bocetos a papel en Figma
 
 ## 6. Conclusiones  
 
-[incluye valoración de esta etapa]
-
+En cuanto a la distribución del trabajo, nos lo hemos repartido todo de manera equitativa además de que hemos trabajo muy bien sin tener ningun tipo de problema. Apoyandonos entre nosotros cuando teniamos algún tipo de duda o algo no nos quedaba claro.
 
