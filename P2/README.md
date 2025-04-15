@@ -73,7 +73,15 @@ En el siguiente Flow Design se representa el flujo de las principales tareas de 
 
 ## 5. Prototipo Lo-FI Wireframe 
 
-[incluir contenido]
+En el siguiente PDF podemos encontrar 8 bocetos hechos a papel. Donde podemos encontrar el diseño básico de las páginas:
+- Catálogo: donde se exponen los diferentes productos disponibles para comprar.
+- Iniciar sesión: interfaz donde podemos iniciar sesión.
+- Crear cuenta: Página para crear una cuenta en el sistema.
+- Producto: En este boceto se representa cómo será la página donde se detalla cada producto.
+- Carrito: Lugar donde se hace un resumen de la compra realizada hasta ahora y se nos brinda la posibilidad de pagar.
+- Blog: Un lugar donde se pueden publicar datos curiosos relacionados con el comercio sostenible.
+- Contacto: Aquí se recogen todos los datos de contacto de los organizadores del negocio, para que de esta forma los clientes pueden comunicarse fácilmente.
+- Vende tus productos: En este novedoso apartado, queríamos dar la posibilidad a nuestros usuarios de poder vender sus productos en nuestra página web a través de una plantilla que deben rellenar para cada producto, que más tarde será validado por nosotros.
 
 ## 6. Conclusiones  
 
