@@ -65,7 +65,8 @@ En el siguiente Flow Design se representa el flujo de las principales tareas de 
 ## 4. Arquitectura de información
 ### 4.1 Sitemap
 
-[incluir contenido]
+Podemos observar la estrcutura jerárquica e
+
 
 ### 4.2 Labelling
 
