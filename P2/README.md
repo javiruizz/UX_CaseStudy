@@ -74,7 +74,7 @@ En el siguiente Sitemap podemos observar la estrcutura jerárquica de nuestro si
 
 ### 4.2 Labelling
 
-[incluir contenido]
+[Labeling](Labelling.pdf)
 
 ## 5. Prototipo Lo-FI Wireframe 
 
