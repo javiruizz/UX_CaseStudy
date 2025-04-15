@@ -74,7 +74,9 @@ En el siguiente Sitemap podemos observar la estrcutura jerárquica de nuestro si
 
 ### 4.2 Labelling
 
-[Labeling](Labelling.pdf)
+En el siguiente Labelling podemos encontrar el etiquetado correspondiente al sitemap.
+
+[Labelling](Labelling.pdf)
 
 ## 5. Prototipo Lo-FI Wireframe 
 
