@@ -58,7 +58,9 @@ acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van
 
 ### 3.2 User/Task Flow
 
-[incluir contenido]
+En el siguiente Flow Design se representa el flujo de las principales tareas de nuestro sitio web. Para leerlo tan solo hay que seguir las flechas de izquierda a derecha.
+
+![Flow_design](Flow_Design.png)
 
 ## 4. Arquitectura de información
 ### 4.1 Sitemap
