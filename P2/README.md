@@ -102,6 +102,10 @@ Procedemos a hacer los diseños de los bocetos a papel en Figma
 
 ### c) Versión con GRID LAYOUT
 
+En el siguiente enlace puede descargar el .fig en el que se encuentra el diseño responsive de nuestra página utilizando Grid Layout.
+
+[Diseño Responsive](Diseno_responsive.fig)
+
 
 ## 6. Conclusiones y valoración de la práctica  
 En esta práctica hemos llevado a cabo diversos puntos, el primero de ellos siendo la ideación donde nos hemos planteado hacia donde queremos enfocar nuestro proyecto y como queremos hacerlo. También hemos llevado a cabo una propuesta de valor sobre nuestro proyecto además de realizar los primeros pasos de diseño donde hemos estudiado las tareas principales y su relevancia para los usuarios, en adición, hemos propuesto una organización lógica de la navegación y elementos de diseño de nuestro proyecto. Por último, hemos realizado bocetos de las principales páginas de nuestra web a distintos niveles lo que nos acerca cada vez más a su puesta en marcha e implementación.
