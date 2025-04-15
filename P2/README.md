@@ -76,7 +76,7 @@ En el siguiente Sitemap podemos observar la estrcutura jerárquica de nuestro si
 
 ## 5. Prototipo Lo-FI Wireframe 
 
-a) Bocetos a papel
+### a) Bocetos a papel
 
 En el siguiente PDF podemos encontrar 8 bocetos hechos a papel. Donde podemos encontrar el diseño básico de las páginas:
 - Catálogo: donde se exponen los diferentes productos disponibles para comprar.
@@ -90,13 +90,13 @@ En el siguiente PDF podemos encontrar 8 bocetos hechos a papel. Donde podemos en
 
 [Bocetos](bocetos_P2_DIU.pdf)
 
-b) Wireframe preliminar en Figma
+### b) Wireframe preliminar en Figma
 
 Procedemos a hacer los diseños de los bocetos a papel en Figma
 
 [Bocetos Figma](bocetos_figma.pdf)
 
-c) Versión con GRID LAYOUT
+### c) Versión con GRID LAYOUT
 
 
 ## 6. Conclusiones  
