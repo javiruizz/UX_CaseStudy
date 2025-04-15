@@ -65,7 +65,9 @@ En el siguiente Flow Design se representa el flujo de las principales tareas de 
 ## 4. Arquitectura de información
 ### 4.1 Sitemap
 
-Podemos observar la estrcutura jerárquica e
+En el siguiente Sitemap podemos observar la estrcutura jerárquica de nuestro sitio web. Cada nivel de profundidad está marcado con un color diferente. El color de las flechas no tienen ningún significado en especial(de ahí que no haya leyenda).
+
+![Sitemap](Sitemap.png)
 
 
 ### 4.2 Labelling
