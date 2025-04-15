@@ -83,7 +83,7 @@ En el siguiente PDF podemos encontrar 8 bocetos hechos a papel. Donde podemos en
 - Contacto: Aquí se recogen todos los datos de contacto de los organizadores del negocio, para que de esta forma los clientes pueden comunicarse fácilmente.
 - Vende tus productos: En este novedoso apartado, queríamos dar la posibilidad a nuestros usuarios de poder vender sus productos en nuestra página web a través de una plantilla que deben rellenar para cada producto, que más tarde será validado por nosotros.
 
-[Bocetos](Bocetos.pdf)
+[Bocetos](bocetos_P2_DIU.pdf)
 
 ## 6. Conclusiones  
 
