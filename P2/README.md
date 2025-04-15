@@ -101,8 +101,10 @@ Procedemos a hacer los diseños de los bocetos a papel en Figma
 ### c) Versión con GRID LAYOUT
 
 
-## 6. Conclusiones  
-[poner valoracion de esta etapa]
+## 6. Conclusiones y valoración de la práctica  
+En esta práctica hemos llevado a cabo diversos puntos, el primero de ellos siendo la ideación donde nos hemos planteado hacia donde queremos enfocar nuestro proyecto y como queremos hacerlo. También hemos llevado a cabo una propuesta de valor sobre nuestro proyecto además de realizar los primeros pasos de diseño donde hemos estudiado las tareas principales y su relevancia para los usuarios, en adición, hemos propuesto una organización lógica de la navegación y elementos de diseño de nuestro proyecto. Por último, hemos realizado bocetos de las principales páginas de nuestra web a distintos niveles lo que nos acerca cada vez más a su puesta en marcha e implementación.
 
 En cuanto a la distribución del trabajo, nos lo hemos repartido todo de manera equitativa además de que hemos trabajo muy bien sin tener ningun tipo de problema. Apoyandonos entre nosotros cuando teniamos algún tipo de duda o algo no nos quedaba claro.
+
+En definitiva, esta práctica nos ha servido para familiarizarnos con el la puesta en marcha de nuestro propio proyecto.
 
