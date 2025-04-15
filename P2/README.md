@@ -54,7 +54,9 @@ acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van
 ## 3. Task Analysis
 ### 3.1 User Task Matrix
 
-[incluir contenido]
+Hemos analizado las tareas más importantes, teniendo en cuenta 3 valores de relevancia(expuestos a la derecha de la tabla), y valorándolos en 3 posibles usuarios de nuestro sitio web. Nos ha parecido interesante diferenciar al usuario ocasional del usuario frecuente. Las tareas están ordenadas por importancia, siendo la de arriba del todo la más prioritaria. 
+
+![Analisis_de_tareas](Analisis_de_tareas.png)
 
 ### 3.2 User/Task Flow
 
