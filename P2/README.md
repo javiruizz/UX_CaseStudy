@@ -46,7 +46,7 @@ observar ideas que ya funcionan las cual se van a implemetar y por otro lado tam
 ### 2.1 Propuesta de valor
 Nuestra propuesta consiste en implementar un servicio orientado a la venta y compra de productos ecológicos con el objetivo
 de contribuir al ocio y comercio sostenible. En adición, además de estos dos principales servicios, se van a ofrecer otros extras 
-que ayuden a mejorar las experiencias con nuestro servicio como pueden ser actividades, eventos, un blog, recetas online y mucho más.
+que ayuden a mejorar la experiencia con nuestro servicio como pueden ser actividades, eventos, un blog, recetas online y mucho más.
 
 ### 2.2 ScopeCanvas 
 
