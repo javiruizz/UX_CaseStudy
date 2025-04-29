@@ -44,10 +44,11 @@ observar ideas que ya funcionan las cual se van a implemetar y por otro lado tam
 
 ## 2. Primeros pasos de diseño
 ### 2.1 Propuesta de valor
+Nuestra propuesta consiste en implementar un servicio orientado a la venta y compra de productos ecológicos
 
 ### 2.2 ScopeCanvas 
 
-Con esta propuesta de valor se pretende explicar en que consiste nuestro proyecto, para ello, se van a tratar distintos puntos a destacar como 
+Con el siguiente ScopeCanvas se pretende resumir nuestro proyecto, para ello, se van a tratar distintos puntos a destacar como 
 las necesidades de nuestros usuarios, objetivos que queremos lograr como organización tanto a largo como a corto plazo, nuestro propósito general,
 acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van a tener en cuenta a la hora de analizar el progreso del proyecto.
 
