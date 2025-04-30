@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 - Moodboard (diseño visual + logotipo)   
-- Landing Page -> ejemplo ( MonuMAI's)
+- Landing Page -> ejemplo ( MonuMAI's, iberdrola placas solares)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
