@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 - Moodboard (diseño visual + logotipo)   
-- Landing Page
+- Landing Page -> ejemplo ( MonuMAI's)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
