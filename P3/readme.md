@@ -17,6 +17,9 @@ Falta completar cosillas
 
 ## 2. Landing Page
 
+Falta poner detalles todavia
+
+![Landing_Page](LandingPage.png)
 
 
 ## 3. Guidelines
