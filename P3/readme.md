@@ -10,6 +10,9 @@ Miembros:
 
 ## 1. Moodboard
 
+Falta completar cosillas
+
+![Moodboard](Moodboard.png)
 
 
 ## 2. Landing Page
