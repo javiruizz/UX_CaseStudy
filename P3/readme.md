@@ -1,11 +1,29 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page -> ejemplo ( MonuMAI's, iberdrola placas solares)
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+Grupo: DIU1.JaviManuel Curso: 2024/25
 
-## Conclusiones
+Miembros:
+ * :bust_in_silhouette:  Javier Ruiz Mondragón    :octocat:     
+ * :bust_in_silhouette:  Manuel Jesús Junquera Lobón    :octocat:
+<br>
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+## 1. Moodboard
+
+
+
+## 2. Landing Page
+
+
+
+## 3. Guidelines
+
+
+
+## 4. Layout hi-fi
+
+
+
+## 5. Valoración de la práctica / Conclusiones
+
+
