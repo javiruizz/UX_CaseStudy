@@ -19,7 +19,7 @@ Falta completar cosillas
 
 Falta poner detalles todavia
 
-![Landing_Page](LandingPage.pg)
+![Landing_Page](LandingPage.png)
 
 
 ## 3. Guidelines
