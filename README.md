@@ -14,7 +14,7 @@ Actualizado: 17/05/2025
 **Proyecto:** EcoNecta
 
 ---
-**Descripción: **
+**Descripción:** 
 EcoNecta es una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de nuestra app, ofrecemos acceso a productos ecológicos directamente de agricultores y ganaderos locales, fomentando así el comercio justo y la producción responsable. Además, brindamos una experiencia completa con contenido útil y cercano: actividades, recetas, blogs y más, pensados para ayudarte a mejorar tus hábitos y conectar con una comunidad comprometida con el bienestar del planeta. Por no hablar de la posiblidad de venta de productos propios para todos aquellos que estén interesados.
 
 ---
@@ -24,20 +24,24 @@ EcoNecta ofrece una plataforma centrada en la compra y venta de productos ecoló
 ---
 **Logotipo:** 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P3/logo.png)
 
-Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+---
+**Eslogan:**
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+![Logo](P3/eslogan.png)
 
------ 
+---
+**Miembros:**
+ * :bust_in_silhouette:  Javier Ruiz Mondragón        
+ * :bust_in_silhouette:  Manuel Jesús Junquera Lobón  
+   
+---
+**GitHub:**
+ * :octocat:  Javier Ruiz Mondragón -> https://github.com/javiruizz 
+ * :octocat:  Manuel Jesús Junquera Lobón -> https://github.com/manujes1
 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
+---
 # Proceso de Diseño 
 
 <br>
