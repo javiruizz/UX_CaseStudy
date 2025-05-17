@@ -10,7 +10,7 @@ Miembros:
 
 ## 1. Moodboard
 
-Falta completar cosillas
+Con el siguiente moodboard se pretende dar una idea general sobre la propuesta visual que va a representar nuestro proyecto EcoNecta, el cual está enfocado en conectar a las personas con lo natural, lo ecológico y lo sostenible. Donde a través de una selección de colores, tipografías, iconografía, imágenes y logotipo, establecemos visualmente una estilo único que  comunica los valores fundamentales del proyecto: sostenibilidad, frescura, cercanía y conciencia ambiental.
 
 ![Moodboard](Moodboard.png)
 
