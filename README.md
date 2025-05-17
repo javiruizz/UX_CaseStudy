@@ -13,20 +13,24 @@ Actualizado: 17/05/2025
 ---
 **Proyecto:** EcoNecta
 
----
+<br>
+
 **Descripción:** 
 EcoNecta es una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de nuestra app, ofrecemos acceso a productos ecológicos directamente de agricultores y ganaderos locales, fomentando así el comercio justo y la producción responsable. Además, brindamos una experiencia completa con contenido útil y cercano: actividades, recetas, blogs y más, pensados para ayudarte a mejorar tus hábitos y conectar con una comunidad comprometida con el bienestar del planeta. Por no hablar de la posiblidad de venta de productos propios para todos aquellos que estén interesados.
 
----
+<br>
+
 **Propuesta de valor:**
 EcoNecta ofrece una plataforma centrada en la compra y venta de productos ecológicos, conectando directamente a consumidores con productores locales. Nuestro objetivo es impulsar un comercio sostenible y consciente, al tiempo que promovemos un ocio saludable. Además, enriquecemos la experiencia del usuario con actividades, eventos, recetas, blogs y otros recursos que fomentan un estilo de vida eco y accesible para todos.
 
----
+<br>
+
 **Logotipo:** 
 
 ![Logo](P3/logo.png)
 
----
+<br>
+
 **Eslogan:**
 
 ![Logo](P3/eslogan.png)
@@ -36,40 +40,47 @@ EcoNecta ofrece una plataforma centrada en la compra y venta de productos ecoló
  * :bust_in_silhouette:  Javier Ruiz Mondragón        
  * :bust_in_silhouette:  Manuel Jesús Junquera Lobón  
    
----
+<br>
+
 **GitHub:**
  * :octocat:  Javier Ruiz Mondragón -> https://github.com/javiruizz 
  * :octocat:  Manuel Jesús Junquera Lobón -> https://github.com/manujes1
 
 ---
-# Proceso de Diseño 
 
 <br>
 
+# Proceso de Diseño 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
+<br>
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
+El proyecto consiste en la realización del análisis de una página web que ofrece servicios en base al ocio y comercio sostenible, concretamente especializada en mercados ecológicos. El principal propósito de este estudio es mejorar la experiencia de los usuarios con la web, así como de mejorar varios aspectos de esta cómo pueden ser conseguir nuevos clientes, además de proveedores con nuevos productos.
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Para la realización de esté análisis se van a establecer una serie de objetivos que se pretenden cumplir, entre ellos encontramos objetivos de distintos tipos como pueden ser comerciales, económicos, personales y otros distintos. Algunos ejemplos de este tipo de objetivos pueden ser mejorar los beneficios y el número de usuarios, garantizar la seguridad y la protecciónd de datos y un crecimiento profesional junto con la mejora de aptitudes como el pensamineto crítico y la capacidad de resolución de problemas.
 
+En adición, también se va a establecer que tipo de información se desea recolectar además de los distintos métodos de investigación que se van a emplear. Por no hablar de la importancia de realizar un estudio de los posibles participantes/usuarios así como del estudio de la competencia.
 
-### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
+Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que como interesados y observadores tenemos bastante experienca ya que nosotros mismos y gente de nuestro alrededor realiza diariamente compras de productos a través de internet. Por otra parte, como diseñadores es cierto que no contamos con mucha experinecia con este tipo de aplicaciones.
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para más información -> [User Research Plan](P1/USER_RESEARCH_PLAN.pdf)
 
-
+---
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
+
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+
+
+
+
+-----
+### 1.b Competitive Analysis
+
+
+>>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
 ### 1.d User Journey Map
