@@ -69,26 +69,42 @@ Para más información -> [User Research Plan](P1/USER_RESEARCH_PLAN.pdf)
 ---
 ### 1.b Personas
 
+Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una persona de edad avanzada que no termina de estar familiarizada del todo con las tecnologías. De esta forma, podemos ver la página desde otra perspectiva que nos permite ver distintos puntos a mejorar para que la experiencia de todo el mundo sea la óptima. Por último, su pasión por la cocina la hace una clienta ideal, al ser uno de los principales servicios de la página la venta de alimentos ecológicos y frescos.
+
+![Persona_1](P1/User_Rocío_Rodríguez.png)
 
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos escogido a Pablo como persona ya que refleja el perfil de una persona deportista que además tiene conocimientos médicos, por lo que le gusta estar informado de los mejores productos para sus pacientes. Él, a diferencia de Rocío sí tiene manejo de la tecnología, está acostumbrado a tratar con interfaces de usuario, motivo por el que es más exigente con las IU que Rocío. El suegro de Pablo está enfermo, necesita hacer una dieta saludable, así que Pablo le hace la compra.
+
+![Persona_2](P1/User_Pablo_Gomez.png)
 
 
-
-
----
-### 1.c Competitive Analysis
-
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
+<br>
 
 ---
-### 1.d User Journey Map
+### 1.c User Journey Map
 
+Rocío se ha visto en la necesidad de adentrarse en internet para encontrar productos locales de gran calidad, en consecuencia, se ha encontrado con la página web Valle&Vega.
+Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha costado un poco encontrar los productos que buscaba además de tener problemas con el proceso de compra, aunque al final haya conseguido su objetivo en el tiempo que buscaba. Este caso es un poco especial ya que aunque Rocío se haya quedado con un mal sabor de boca,planteándose si volver a usar la web, hay que tener en cuenta la edad de Rocío y que no está muy familiarizada con la tecnología, aun así, nos aporta una visión distinta que nos puede ayudar a la hora de encontrar ideas para mejorar la página y la experiencia de los usuarios.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Journey_Map](Journey_map_Rocío_Rodríguez.png)
 
+Pablo está acostumbrado a hacer la compra de su suegro Luis, el cual padece una enfermedad instestinal y no puede hacerla por si mismo. Él lo ayuda a elegir los productos correctos. Un día, Luis le pide a Pablo que le haga la compra. Él, como andaba un poco justo de tiempo, busca en internet y se encuentra con la web de Bioencasa. En dicha web encuentra los productos que iba buscando y la interfaz le permite satisfacer las necesidades fundamentales que tenía. Sin embargo, Pablo estaba un poco irascible debido a la falta de tiempo, por lo que le molestó bastante que le apareciera todo el rato un pop-up cada vez que añadía un producto a la cesta y el hecho de que le pidan que se creara una cuenta en la web para poder hacer su pedido.
+
+![Journey_Map](Journey_map_pablo_gomez.png)
+
+---
+### 1.d Competitive Analysis
+
+Para comenzar, de entre los casos propuestos nos hemos decantado por Valle&Vega (https://valleyvega.org/) , la cual es una asociación para la producción y comercialización kilómetro 0 de alimentación ecológica en la provincia de Granada. La razón por la que hemos elegido está es debido a que nos ha llamado más la atención, además de parecernos buenísima idea para dar a conocer comercios locales o incluso ganaderos y  agricultores de nuestra propia provincia, sirviendo como impulso para la economía y en consecuencia su crecimiento y expansión.
+
+A continuación, para hacer el competitive analysis hemos elegido las siguientes páginas, Bioencasa (https://bioencasa.es/) y EcoJaral (https://ecojaral.com/) . Ambas son páginas que ofrecen una amplia variedad de productos ecológicos de la provincia de Granada. El motivo de esta elección es que ambas comparten muchas similitudes, al proporcionar productos que provienen de nuestra propia provincia al igual que Valle&Vega.
+
+![Analisis_comp](Competitor_Analysis.png)
+
+Haciendo un breve resumen, en Bioencasa podemos observar que aunque ofrece casi la misma variedad de productos que Valle&Vega, está pagina ofrece un diseño más llamativo y claro, haciéndola más intuitiva además de ofrecer otros servicios no presentes en Valle&Vega como pueden ser repartos a domicilio. Por otra parte Ecojaral tmabién presenta una página más clara e intuitiva que en Valle&Vega, por no hablar de que implementa una buena mecánica para mejorar la experiencia de los usuarios como son los puntos de fidelidad.
+
+Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que ésta es la más completa y la que nos va a ayudar más a la hora de implementar mejoras. 
 
 ---
 ### 1.e Usability Review
