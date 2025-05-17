@@ -55,7 +55,7 @@ EcoNecta ofrece una plataforma centrada en la compra y venta de productos ecoló
 
 <br>
 
-### 1.a User Reseach Plan
+### 1.1 User Reseach Plan
 El proyecto consiste en la realización del análisis de una página web que ofrece servicios en base al ocio y comercio sostenible, concretamente especializada en mercados ecológicos. El principal propósito de este estudio es mejorar la experiencia de los usuarios con la web, así como de mejorar varios aspectos de esta cómo pueden ser conseguir nuevos clientes, además de proveedores con nuevos productos.
 
 Para la realización de esté análisis se van a establecer una serie de objetivos que se pretenden cumplir, entre ellos encontramos objetivos de distintos tipos como pueden ser comerciales, económicos, personales y otros distintos. Algunos ejemplos de este tipo de objetivos pueden ser mejorar los beneficios y el número de usuarios, garantizar la seguridad y la protecciónd de datos y un crecimiento profesional junto con la mejora de aptitudes como el pensamineto crítico y la capacidad de resolución de problemas.
@@ -67,7 +67,7 @@ Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que com
 Para más información -> [User Research Plan](P1/USER_RESEARCH_PLAN.pdf)
 
 ---
-### 1.b Personas
+### 1.2 Personas
 
 Hemos escogido a Rocío como persona ya que nos gustaría tener el perfil de una persona de edad avanzada que no termina de estar familiarizada del todo con las tecnologías. De esta forma, podemos ver la página desde otra perspectiva que nos permite ver distintos puntos a mejorar para que la experiencia de todo el mundo sea la óptima. Por último, su pasión por la cocina la hace una clienta ideal, al ser uno de los principales servicios de la página la venta de alimentos ecológicos y frescos.
 
@@ -82,7 +82,7 @@ Hemos escogido a Pablo como persona ya que refleja el perfil de una persona depo
 <br>
 
 ---
-### 1.c User Journey Map
+### 1.3 User Journey Map
 
 Rocío se ha visto en la necesidad de adentrarse en internet para encontrar productos locales de gran calidad, en consecuencia, se ha encontrado con la página web Valle&Vega.
 Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha costado un poco encontrar los productos que buscaba además de tener problemas con el proceso de compra, aunque al final haya conseguido su objetivo en el tiempo que buscaba. Este caso es un poco especial ya que aunque Rocío se haya quedado con un mal sabor de boca,planteándose si volver a usar la web, hay que tener en cuenta la edad de Rocío y que no está muy familiarizada con la tecnología, aun así, nos aporta una visión distinta que nos puede ayudar a la hora de encontrar ideas para mejorar la página y la experiencia de los usuarios.
@@ -94,7 +94,7 @@ Pablo está acostumbrado a hacer la compra de su suegro Luis, el cual padece una
 ![Journey_Map](P1/Journey_map_pablo_gomez.png)
 
 ---
-### 1.d Competitive Analysis
+### 1.4 Competitive Analysis
 
 Para comenzar, de entre los casos propuestos nos hemos decantado por Valle&Vega (https://valleyvega.org/) , la cual es una asociación para la producción y comercialización kilómetro 0 de alimentación ecológica en la provincia de Granada. La razón por la que hemos elegido está es debido a que nos ha llamado más la atención, además de parecernos buenísima idea para dar a conocer comercios locales o incluso ganaderos y  agricultores de nuestra propia provincia, sirviendo como impulso para la economía y en consecuencia su crecimiento y expansión.
 
@@ -107,7 +107,7 @@ Haciendo un breve resumen, en Bioencasa podemos observar que aunque ofrece casi 
 Finalmente, podemos observar como las páginas presentan unas puntuaciones similares, haciendo que ninguna destaque sobre las demás. Sin embargo , aunque las páginas nos han parecido interesantes y nos han permitido ver muchos aspectos a mejorar, nos vamos a decantar por Bioencasa, ya que ésta es la más completa y la que nos va a ayudar más a la hora de implementar mejoras. 
 
 ---
-### 1.e Usability Review
+### 1.5 Usability Review
 Vamos a evaluar diferente aspectos sobre la pagina web Bioencasa y si tiene margen de mejora. En dicha evaluación se van a tener en cuenta varios apartados, como lo son la funcionalidad, la navegación la búsqueda o el rendimiento de la página.
 
 Para ver la evaluación -> [ENLACE A USABILITY REVIEW](P1/Usability-review.pdf)
@@ -120,102 +120,154 @@ Debería ofrecer una explicación más extensa cuando cometemos un error en los 
 
 ---
 ## Paso 2. UX Design  
+---
+### 2.1 Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+#### 2.1.1 Malla receptora de información
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
+Vamos a realizar una malla receptora de información donde utilizaremos toda la información obtenida de nuestras personas así como aquella
+que tenemos nosotros mismos, es decir, nuestra experiencia y la que hemos obtenido de las distintas páginas analizadas anteriormente. 
+Dicha malla se va a dividir en cuatro apartados principales que hemos considerado los más importantes:
+ * Aspectos positivos (Worked) -> son cosas que sabemos que funcionan y que hemos podido observar de distintas páginas web.
+ * Críticas constructivas (Change) -> son cosas a tener en cuenta para cambiar y mejorar en el futuro.
+ * Preguntas de usuario (Questions) -> posibles preguntas que se pueden hacer los usuarios
+ * Ideas de mejora (Ideas) -> son las ideas que nos gustaría implementar o al menos tener en cuenta en el futuro desarrollo.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+![FeedBackCaptureGrid](P2/FeedbackCaptureGrid.png)
 
+#### 2.1.2 Mapa de empatía
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Vamos a diseñar un mapa de empatía donde reuniremos tanto el comportamineto de nuestras personas y nuestra experiencia para un futuro diseño. 
+El mapa se va a dividir en seis partes principales las cuales son:
+* Think & Feel -> recoge todo en cuanto emociones, pensamientos, motivaciones y necesidades.
+* Ear -> se basa en todo lo que se ha escuchado de diferentes sitios y personas.
+* See -> es todo aquello que se ha visto.
+* Say & Do -> se trata de todo lo que se dice y hace.
+* Pain -> obstáculos y dificultades que han tenido.
+* Gain -> todos los benefios, éxitos y objetivos.
 
+Para entender el mapa es necesario tener en cuenta la siguiente leyenda:
+* Color Morado -> representa la persona de Pablo.
+* Color Rojo -> representa la persona de Rocío.
+* Color Amarillo -> representa nuestra experiencia.
 
-### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
+![EmpathyMapping](P2/EmpathyMapping.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
-
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
-
-### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+#### 2.1.3 Conclusiones
+Antes de comenzar con el diseñó de nuestro proyecto, vamos a realizar un resumen de las cosas más importantes que hemos visto. En la malla receptora de información hemos podido
+observar ideas que ya funcionan las cual se van a implemetar y por otro lado tambien se nos han ocurrido algunas nuevas que nos gustaría poner en marcha como el servicio de reparto express o la venta de platos preparados. A continucación, hemos podido obetener del mapa de empatía una idea de lo que piensa y hace la gente, donde caben destacar algunos puntos como las difucultades que tienen algunas personas como la desconfianza hacia un servicio o los malos comentarios, mientras que por otro lado tenemos puntos positivos a nombrar como las variedad de productos y la venta de productos frescos,locales y saludables.
 
 
-### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
+---
+### 2.2 ScopeCanvas
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Con el siguiente ScopeCanvas se pretende resumir nuestro proyecto, para ello, se van a tratar distintos puntos a destacar como 
+las necesidades de nuestros usuarios, objetivos que queremos lograr como organización tanto a largo como a corto plazo, nuestro propósito general,
+acciones que queremos que nuestros usuarios lleven a cabo y métricas que se van a tener en cuenta a la hora de analizar el progreso del proyecto.
+
+[ScopeCanvas](P2/ScopeCanvas.pdf)
+
+
+---
+### 2.3 User Flow (task) analysis 
+#### 2.3.1 User Task Matrix
+
+Hemos analizado las tareas más importantes, teniendo en cuenta 3 valores de relevancia(expuestos a la derecha de la tabla), y valorándolos en 3 posibles usuarios de nuestro sitio web. Nos ha parecido interesante diferenciar al usuario ocasional del usuario frecuente. Las tareas están ordenadas por importancia, siendo la de arriba del todo la más prioritaria. 
+
+![Analisis_de_tareas](P2/Analisis_de_Tareas.png)
+
+#### 2.3.2 User/Task Flow
+
+En el siguiente Flow Design se representa el flujo de las principales tareas de nuestro sitio web. Para leerlo tan solo hay que seguir las flechas de izquierda a derecha.
+
+![Flow_design](P2/Flow_Design.png)
+
+
+---
+### 2.4 IA: Sitemap + Labelling 
+
+#### 2.4.1 Sitemap
+
+En el siguiente Sitemap podemos observar la estrcutura jerárquica de nuestro sitio web. Cada nivel de profundidad está marcado con un color diferente. El color de las flechas no tienen ningún significado en especial(de ahí que no haya leyenda).
+
+![Sitemap](P2/Sitemap.png)
+
+
+#### 2.4.2 Labelling
+
+En el siguiente Labelling podemos encontrar el etiquetado correspondiente al sitemap.
+
+[Labelling](P2/Labelling.pdf)
+
+
+---
+### 2.5 Wireframes
+
+#### a) Bocetos a papel
+
+En el siguiente PDF podemos encontrar 8 bocetos hechos a papel. Donde podemos encontrar el diseño básico de las páginas:
+- Catálogo: donde se exponen los diferentes productos disponibles para comprar.
+- Iniciar sesión: interfaz donde podemos iniciar sesión.
+- Crear cuenta: Página para crear una cuenta en el sistema.
+- Producto: En este boceto se representa cómo será la página donde se detalla cada producto.
+- Carrito: Lugar donde se hace un resumen de la compra realizada hasta ahora y se nos brinda la posibilidad de pagar.
+- Blog: Un lugar donde se pueden publicar datos curiosos relacionados con el comercio sostenible.
+- Contacto: Aquí se recogen todos los datos de contacto de los organizadores del negocio, para que de esta forma los clientes pueden comunicarse fácilmente.
+- Vende tus productos: En este novedoso apartado, queríamos dar la posibilidad a nuestros usuarios de poder vender sus productos en nuestra página web a través de una plantilla que deben rellenar para cada producto, que más tarde será validado por nosotros.
+
+[Bocetos](P2/bocetos_P2_DIU.pdf)
+
+#### b) Wireframe preliminar en Figma
+
+Procedemos a hacer los diseños de los bocetos a papel en Figma
+
+[Bocetos Figma](P2/bocetos_figma.pdf)
+
+#### c) Versión con GRID LAYOUT
+
+En el siguiente enlace puede descargar el .fig en el que se encuentra el diseño responsive de nuestra página utilizando Grid Layout.
+
+[Diseño Responsive](P2/Diseno_responsive.fig)
+
+
 
 <br>
 
+---
 ## Paso 3. Mi UX-Case Study (diseño)
+### 3.1 Moodboard
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Con el siguiente moodboard se pretende dar una idea general sobre la propuesta visual que va a representar nuestro proyecto EcoNecta, el cual está enfocado en conectar a las personas con lo natural, lo ecológico y lo sostenible. Donde a través de una selección de colores, tipografías, iconografía, imágenes y logotipo, establecemos visualmente una estilo único que  comunica los valores fundamentales del proyecto: sostenibilidad, frescura, cercanía y conciencia ambiental.
 
-
-### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
-
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![Moodboard](P3/Moodboard.png)
 
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+---
+### 3.2 Landing Page
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+[Poner introduccion] !!!!!
+![Landing_Page](P3/LandingPage.png)
+
+---
+### 3.3 Guidelines
+
+[Poner introduccion] !!!!!
+
+[Poner foto]
+
+---
+### 3.4 Mockup
+
+En esta parte buscamos reflejar con precisión la experiencia del usuario final, integrando elementos visuales definidos en el moodboard, así como componentes interactivos que simulan la funcionalidad real de la interfaz. Para asegurar una navegación clara, accesible y coherente, se ha utilizado Figma,donde se han incluido diversas animaciones. En adición, también se han usado interacciones mediante menús, botones y tarjetas, lo que permite una visualización precisa del flujo de un usuario en entornos móviles. Este layout no solo representa el aspecto visual, sino también el funcionamiento esperado de la app, ayudando a una posterior fase de desarrollo e implementación.
+
+[Poner foto o pdf]
+[Poner enlace]
+[poner video?]
+
+---
+### 3.5 ¿My UX-Case Study?
 
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 <br>
 
