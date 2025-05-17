@@ -1,20 +1,27 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+#### Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible |  Subtema: Mercados ecológicos ) 
 
-[Guiones de prácticas](GuionesPracticas/)
+---
+Enlace al repositorio -> https://github.com/javiruizz/UX_CaseStudy.git
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU1_JaviManuel  
 
-Actualizado: xx/xx/2025
+Curso: 2025/26 
 
-Proyecto: 
+Actualizado: 17/05/2025
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+---
+Proyecto: EcoNecta
 
+---
 Descripción: 
+EcoNecta es una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de nuestra app, ofrecemos acceso a productos ecológicos directamente de agricultores y ganaderos locales, fomentando así el comercio justo y la producción responsable. Además, brindamos una experiencia completa con contenido útil y cercano: actividades, recetas, blogs y más, pensados para ayudarte a mejorar tus hábitos y conectar con una comunidad comprometida con el bienestar del planeta. Por no hablar de la posiblidad de venta de productos propios para todos aquellos que estén interesados.
 
->>> Describa la idea de su producto en la práctica 2 
+---
+Propuesta de valor:
+EcoNecta ofrece una plataforma centrada en la compra y venta de productos ecológicos, conectando directamente a consumidores con productores locales. Nuestro objetivo es impulsar un comercio sostenible y consciente, al tiempo que promovemos un ocio saludable. Además, enriquecemos la experiencia del usuario con actividades, eventos, recetas, blogs y otros recursos que fomentan un estilo de vida eco y accesible para todos.
 
+---
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
