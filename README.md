@@ -67,7 +67,7 @@ Por último, en cuanto a nuestra experiencia en este campo cabe recalcar que com
 Para más información -> [User Research Plan](P1/USER_RESEARCH_PLAN.pdf)
 
 ---
-### 1.c Personas
+### 1.b Personas
 
 
 
@@ -76,23 +76,22 @@ Para más información -> [User Research Plan](P1/USER_RESEARCH_PLAN.pdf)
 
 
 
------
-### 1.b Competitive Analysis
+---
+### 1.c Competitive Analysis
 
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
+---
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
+
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
+---
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
