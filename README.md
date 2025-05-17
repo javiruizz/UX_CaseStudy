@@ -87,11 +87,11 @@ Hemos escogido a Pablo como persona ya que refleja el perfil de una persona depo
 Rocío se ha visto en la necesidad de adentrarse en internet para encontrar productos locales de gran calidad, en consecuencia, se ha encontrado con la página web Valle&Vega.
 Sin embargo, la experiencia ha sido distinta a la que se imaginaba ya que le ha costado un poco encontrar los productos que buscaba además de tener problemas con el proceso de compra, aunque al final haya conseguido su objetivo en el tiempo que buscaba. Este caso es un poco especial ya que aunque Rocío se haya quedado con un mal sabor de boca,planteándose si volver a usar la web, hay que tener en cuenta la edad de Rocío y que no está muy familiarizada con la tecnología, aun así, nos aporta una visión distinta que nos puede ayudar a la hora de encontrar ideas para mejorar la página y la experiencia de los usuarios.
 
-![Journey_Map](Journey_map_Rocío_Rodríguez.png)
+![Journey_Map](P1/Journey_map_Rocío_Rodríguez.png)
 
 Pablo está acostumbrado a hacer la compra de su suegro Luis, el cual padece una enfermedad instestinal y no puede hacerla por si mismo. Él lo ayuda a elegir los productos correctos. Un día, Luis le pide a Pablo que le haga la compra. Él, como andaba un poco justo de tiempo, busca en internet y se encuentra con la web de Bioencasa. En dicha web encuentra los productos que iba buscando y la interfaz le permite satisfacer las necesidades fundamentales que tenía. Sin embargo, Pablo estaba un poco irascible debido a la falta de tiempo, por lo que le molestó bastante que le apareciera todo el rato un pop-up cada vez que añadía un producto a la cesta y el hecho de que le pidan que se creara una cuenta en la web para poder hacer su pedido.
 
-![Journey_Map](Journey_map_pablo_gomez.png)
+![Journey_Map](P1/Journey_map_pablo_gomez.png)
 
 ---
 ### 1.d Competitive Analysis
@@ -100,7 +100,7 @@ Para comenzar, de entre los casos propuestos nos hemos decantado por Valle&Vega 
 
 A continuación, para hacer el competitive analysis hemos elegido las siguientes páginas, Bioencasa (https://bioencasa.es/) y EcoJaral (https://ecojaral.com/) . Ambas son páginas que ofrecen una amplia variedad de productos ecológicos de la provincia de Granada. El motivo de esta elección es que ambas comparten muchas similitudes, al proporcionar productos que provienen de nuestra propia provincia al igual que Valle&Vega.
 
-![Analisis_comp](Competitor_Analysis.png)
+![Analisis_comp](P1/Competitor_Analysis.png)
 
 Haciendo un breve resumen, en Bioencasa podemos observar que aunque ofrece casi la misma variedad de productos que Valle&Vega, está pagina ofrece un diseño más llamativo y claro, haciéndola más intuitiva además de ofrecer otros servicios no presentes en Valle&Vega como pueden ser repartos a domicilio. Por otra parte Ecojaral tmabién presenta una página más clara e intuitiva que en Valle&Vega, por no hablar de que implementa una buena mecánica para mejorar la experiencia de los usuarios como son los puntos de fidelidad.
 
@@ -108,14 +108,17 @@ Finalmente, podemos observar como las páginas presentan unas puntuaciones simil
 
 ---
 ### 1.e Usability Review
+Vamos a evaluar diferente aspectos sobre la pagina web Bioencasa y si tiene margen de mejora. En dicha evaluación se van a tener en cuenta varios apartados, como lo son la funcionalidad, la navegación la búsqueda o el rendimiento de la página.
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Para ver la evaluación -> [ENLACE A USABILITY REVIEW](P1/Usability-review.pdf)
+
+Como podemos ver, Bioencasa ha obtenido una puntuación de 82/100, destacando positivamente en la mayoría de apartados. La página podría mejorar ofreciendo diferentes níveles de usabilidad para diferentes usuarios y permitiendo hacer una configuración adaptada al usuario.
+
+Debería ofrecer una explicación más extensa cuando cometemos un error en los formularios, ofreciendo ayuda, como ejemplos sobre qué debería de poner. Además, estaría muy bien que ofreciera busquedas avanzadas como, por ejemplo, productos más comprados, más recientes, mejor valorados, etc.
 
 <br>
 
+---
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
