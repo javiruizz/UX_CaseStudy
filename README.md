@@ -261,10 +261,8 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
 - Article List: Tenemos una lista de productos.
 - Shopping cart: En EcoNecta existe un proceso de pago detallado.
 - Wizards: Nuestro diseño utiliza el patrón wizard en varios apartados.
-  -dwf
-  -
-  
- 
+- **Proceso de pago**
+ -fgdg
 
 
 
