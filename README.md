@@ -260,14 +260,23 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
 - Formulario de entrada de datos: Nuestro diseño cuenta con varios formularios, de resgistro, de inicio de sesión, para vender productos dentro de la página, etc.
 - Article List: Tenemos una lista de productos.
 - Shopping cart: En EcoNecta existe un proceso de pago detallado.
+  
 - **Wizards: Nuestro diseño utiliza el patrón wizard en varios apartados.**
+  
   - *Proceso de pago*
     - Seleccionamos el icono del carrito situado en la esquina superior derecha para ver el resumen de los que hemos añadido a la cesta de la compra hasta el momento. En el podemos ver el importe a pagar.
     - Tras seleccionar el botón de pago, rellenamos la información personal(en caso de estar registrado aparecerá ya rellena). Y seleccionamos el método de pago deseado(pago con tarjeta o PayPal).
     - Una vez seleccionada la tarjeta, accederemos a una nueva página donde tendremos que rellenar la información de la tarjeta y seleccionar el botón para confirmar el uso de dicha tarjeta.
-- **Otro Nivel 1**
-  - *Nivel 2*
-    - Nivel 3
+      
+  - *Proceso de registro*
+    - Al entrar en la aplicación vemos que en la esquina superior derecha hay un icono de usuario, pinchamos en él y se nos pedirá la información de inicio de sesión.
+    - Al no teber una cuenta creada, pincharemos en el botón de "no tengo cuenta todavía".
+    - Se nos llevará a un formulario de registro donde deberemos rellenar información personal y pulsar en el botón de "Crear Cuenta".
+      
+ -  *Añadir productos/Publicar en el blog*
+       - En nuestra aplicación se permite publicar productos para poner en venta y añadir publicaciones en el blog. Ambos procesos son simialres.
+       - Accedes a un formulario que debes rellenar con los datos acordes a la acción que queremos llevar a cabo.
+       - Pulsamos en el botón de "publicar"/"enviar".
 
 
 
