@@ -253,7 +253,15 @@ A continuación podemos encontrar nuestro Landing Page. En él, a través de una
 ### 3.3 Guidelines
 
 Los patrones que hemos decidido utilizar para la creación del prototipo son:
-*Onboarding: Hemos creado una pantalla de bienvenida
+- Onboarding: Hemos creado una pantalla de bienvenida.
+- Carousel: Nuestra apliación cuenta con una sección destacada de imágenes.
+- Search: Contamos con una barra de búsqueda para fistrar los productos.
+- Acerca de: Tenems un apartado donde mostramos la información de la empresa.
+- Formulario de entrada de datos: Nuestro diseño cuenta con varios formularios, de resgistro, de inicio de sesión, para vender productos dentro de la página, etc.
+- Article List: Tenemos una lista de productos.
+- Shopping cart: En EcoNecta existe un proceso de pago detallado.
+- Wizards: Nuestro diseño utiliza el patrón wizard en varios apartados.
+ 
 
 
 
