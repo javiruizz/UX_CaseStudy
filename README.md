@@ -252,7 +252,10 @@ A continuación podemos encontrar nuestro Landing Page. En él, a través de una
 ---
 ### 3.3 Guidelines
 
-[Poner introduccion] !!!!!
+Los patrones que hemos decidido utilizar para la creación del prototipo son:
+*Onboarding: Hemos creado una pantalla de bienvenida
+
+
 
 [Poner foto]
 
