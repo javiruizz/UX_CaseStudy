@@ -246,6 +246,7 @@ Con el siguiente moodboard se pretende dar una idea general sobre la propuesta v
 ### 3.2 Landing Page
 
 A continuación podemos encontrar nuestro Landing Page. En él, a través de una imagen que refuerza la idea el comercio sostenible y de 3 mensajes directos que ayudan a hacer la propuesta más deseable para el cliente animamos al cliente a descargar la aplicación.
+
 ![Landing_Page](P3/LandingPage.png)
 
 ---
