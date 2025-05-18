@@ -259,6 +259,7 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
 - Acerca de: Tenems un apartado donde mostramos la información de la empresa.
 - Formulario de entrada de datos: Nuestro diseño cuenta con varios formularios, de resgistro, de inicio de sesión, para vender productos dentro de la página, etc.
 - Article List: Tenemos una lista de productos.
+- Menú: Contamos con un menú en nuestro catálogo de productos.
 - Shopping cart: En EcoNecta existe un proceso de pago detallado.
   
 - **Wizards: Nuestro diseño utiliza el patrón wizard en varios apartados.**
