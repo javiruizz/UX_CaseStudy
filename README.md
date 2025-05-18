@@ -279,10 +279,6 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
      - Accedes a un formulario que debes rellenar con los datos acordes a la acción que queremos llevar a cabo.
      - Pulsamos en el botón de "publicar"/"enviar".
 
-
-
-[Poner foto]
-
 ---
 ### 3.4 Mockup
 
