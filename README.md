@@ -284,9 +284,8 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
 
 En esta parte buscamos reflejar con precisión la experiencia del usuario final, integrando elementos visuales definidos en el moodboard, así como componentes interactivos que simulan la funcionalidad real de la interfaz. Para asegurar una navegación clara, accesible y coherente, se ha utilizado Figma,donde se han incluido diversas animaciones. En adición, también se han usado interacciones mediante menús, botones y tarjetas, lo que permite una visualización precisa del flujo de un usuario en entornos móviles. Este layout no solo representa el aspecto visual, sino también el funcionamiento esperado de la app, ayudando a una posterior fase de desarrollo e implementación.
 
-[Poner foto o pdf]
-[Poner enlace]
-[poner video?]
+**Enlace a figma:**
+https://www.figma.com/design/SEPZABWTM9ji8luZB7NLhH/layout-hi-fi?t=NX5bp4nb2HtKaGe1-1
 
 ---
 ### 3.5 ¿My UX-Case Study?
