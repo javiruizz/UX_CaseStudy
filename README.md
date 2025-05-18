@@ -274,9 +274,9 @@ Los patrones que hemos decidido utilizar para la creación del prototipo son:
     - Se nos llevará a un formulario de registro donde deberemos rellenar información personal y pulsar en el botón de "Crear Cuenta".
       
   -  *Añadir productos/Publicar en el blog*
-    - En nuestra aplicación se permite publicar productos para poner en venta y añadir publicaciones en el blog. Ambos procesos son simialres.
-    - Accedes a un formulario que debes rellenar con los datos acordes a la acción que queremos llevar a cabo.
-    - Pulsamos en el botón de "publicar"/"enviar".
+     - En nuestra aplicación se permite publicar productos para poner en venta y añadir publicaciones en el blog. Ambos procesos son simialres.
+     - Accedes a un formulario que debes rellenar con los datos acordes a la acción que queremos llevar a cabo.
+     - Pulsamos en el botón de "publicar"/"enviar".
 
 
 
