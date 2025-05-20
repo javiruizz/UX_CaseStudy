@@ -4,7 +4,7 @@
 ---
 Enlace al repositorio -> https://github.com/javiruizz/UX_CaseStudy.git
 
-Grupo: DIU1_JaviManuel  
+Grupo: DIU1.JaviManuel  
 
 Curso: 2025/26 
 
