@@ -19,8 +19,8 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 | Usuarios    | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| xxxx          | M / 37   | Ama Casa    | Media       | Extrovertido | Móvil      | A 
-| yyyyy         | H / 67   | Jubilado    | Baja        | Introvertido | Windows    | A 
+| Javier          | H / 51   |  Director    | Media       | Persistente | Windows      | A 
+| Cristina         | M / 19   | Estudiante    | Alta        | Extrovertida | Móvil    | A 
 | Jose Diego          | H / 28   | Trabajador  | Alta        | Introvertido       |Windows       | B 
 | Agustín         | H / 64   | Médico     | Baja       | Racional     |Móvil       | B 
 
