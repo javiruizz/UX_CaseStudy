@@ -21,6 +21,7 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Javier          | H / 51   |  Director    | Media       | Persistente | Windows      | A 
 | Cristina         | M / 19   | Estudiante    | Alta        | Extrovertida | Móvil    | A 
+| Samuel         | H / 31   | Bombero    | Media/Alta        | Social | Linux    | A 
 | Jose Diego          | H / 28   | Trabajador  | Alta        | Introvertido       |Windows       | B 
 | Agustín         | H / 64   | Médico     | Baja       | Racional     |Móvil       | B 
 
