@@ -30,7 +30,13 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 ### 4.1 Eye Tracking
 
-Hacemos el eye tracking del caso B ( si hay tiempo en los dos)
+Este estudio de eye tracking se llevó a cabo para analizar el comportamiento de los usuarios mientras realizan una tarea. Los uaurios escogidos para las pruebas son Agustín y Jose Diego.
+
+Los objetivos de este estudio son:
+
+* Identificar áreas de interés (AOI) en las interfaces de usuario.
+* Analizar patrones de fijación y movimientos oculares.
+* Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
 
