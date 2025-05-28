@@ -46,6 +46,10 @@ Resultados del Eye Tracking de la tarea B:
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
 
+[Explicar]
+
+![Cuestionario SUS](Cuestionario_SUS.png)
+
 ### 4.3 Checklist de usabilidad
 
 ## 5. Usability Report
