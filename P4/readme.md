@@ -24,13 +24,13 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 | zzzz          | H / 21   | Estudiante  | Alta        | Timido       |Linux       | B 
 | wwwww         | H / 27   | Abogado     | Media       | Racional     |Móvil       | B 
 
-## 4. Pruebas diseñadas
+## 4. Pruebas diseñadas (Basadas en A/B testing)
 
-### 4.1 A/B Testing ¿?
+### 4.1 Eye Tracking
 
-### 4.2 Eye Tracking
+### 4.2 Cuestionario SUS (System Usability Scale Test)
 
-### 4.3 Cuestionario SUS (System Usability Scale Test)
+### 4.3 Checklist de usabilidad
 
 ## 5. Usability Report
 
