@@ -32,7 +32,7 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 Este estudio de eye tracking se llevó a cabo para analizar el comportamiento de los usuarios mientras realizan una tarea. Los uaurios escogidos para las pruebas son Agustín y Jose Diego.
 
-![EyeTracking](
+![EyeTracking](EyeTracking/EyeTracking.png)
 
 Los objetivos de este estudio son:
 
