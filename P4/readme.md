@@ -21,8 +21,8 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | xxxx          | M / 37   | Ama Casa    | Media       | Extrovertido | Móvil      | A 
 | yyyyy         | H / 67   | Jubilado    | Baja        | Introvertido | Windows    | A 
-| zzzz          | H / 21   | Estudiante  | Alta        | Timido       |Linux       | B 
-| wwwww         | H / 27   | Abogado     | Media       | Racional     |Móvil       | B 
+| Jose Diego          | H / 28   | Trabajador  | Alta        | Introvertido       |Windows       | B 
+| Agustín         | H / 64   | Médico     | Baja       | Racional     |Móvil       | B 
 
 ## 4. Pruebas diseñadas (Basadas en A/B testing)
 
