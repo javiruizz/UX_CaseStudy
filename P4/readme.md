@@ -13,7 +13,7 @@ El caso B que se nos ha asignado es el del grupo **DIU2.Padulink**.
 
 Link del GitHub: https://github.com/VeraJose05/UX_CaseStudy
 
-## 3. Users
+## 3. Usuarios
 
 Los usuarios reales que se han elegido para participar en este estudio y a los que se les realizarán pruebas futuras son:
 
