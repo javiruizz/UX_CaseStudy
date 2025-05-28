@@ -1,21 +1,48 @@
 # DIU - Practica 4, entregables
 
-## Práctica B asignada
-La práctica B que se nos ha asignado es la del grupo**DIU2.Padulink**. Link del GitHub: https://github.com/VeraJose05/UX_CaseStudy
+## 1. Introducción
+
+El objetivo de esta práctica  es evaluar nuestro prototipo con usuarios reales aplicando técnicas que nos permitan indagar sobre la experiencia en base al producto diseñado y sobre posibles mejoras.
+
+Para ello, usaremos diversas técnicas como la técnica A/B testing para medir dos prototipos para un producto muy similar y otras técnicas como cuestionario SUS (System Usability Scale) o Eye Tracking.
+
+Para comenzar vamos a partir de dos diseños de web (nuestra propuesta  A y otra práctica de otro compañero de clase asignada al azar denominada B). Vamos a seleccionar un conjunto de usuarios que actuarán como usuarios de estas dos prácticas (A y B), y a continuación, éstos deberán rellenar un cuestionario de usabilidad (encuesta SUS). Por último, se hará una valoración de cuál es la mejor opción a partir de los datos recogidos.
+
+## 2. Caso B asignado
+El caso B que se nos ha asignado es el del grupo **DIU2.Padulink**. 
+
+Link del GitHub: https://github.com/VeraJose05/UX_CaseStudy
+
+## 3. Users
+
+Los usuarios reales que se han elegido para participar en este estudio y a los que se les realizarán pruebas futuras son:
+
+| Usuarios    | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| xxxx          | M / 37   | Ama Casa    | Media       | Extrovertido | Móvil      | A 
+| yyyyy         | H / 67   | Jubilado    | Baja        | Introvertido | Windows    | A 
+| zzzz          | H / 21   | Estudiante  | Alta        | Timido       |Linux       | B 
+| wwwww         | H / 27   | Abogado     | Media       | Racional     |Móvil       | B 
+
+## 4. Pruebas diseñadas
+
+### 4.1 A/B Testing
+
+### 4.2 Eye Tracking
+
+### 4.3 Cuestionario SUS (System Usability Scale Test)
+
+## 5. Usability Report
+
+## 6. Conclusiones
 
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
-
+## Cosas que hacer
 - Users. Elección y características de los usuarios reclutados
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
 - Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
-
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
