@@ -288,7 +288,6 @@ En esta parte buscamos reflejar con precisión la experiencia del usuario final,
 https://www.figma.com/design/SEPZABWTM9ji8luZB7NLhH/layout-hi-fi?t=NX5bp4nb2HtKaGe1-1
 
 ---
-### 3.5 ¿My UX-Case Study?
 
 
 
