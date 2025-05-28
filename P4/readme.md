@@ -28,6 +28,8 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 ### 4.1 Eye Tracking
 
+Hacemos el eye tracking del caso B ( si hay tiempo en los dos)
+
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
 
 ### 4.3 Checklist de usabilidad
