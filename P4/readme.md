@@ -24,6 +24,7 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 | Samuel         | H / 31   | Bombero    | Media/Alta        | Social | Linux    | A 
 | Jose Diego          | H / 28   | Trabajador  | Alta        | Introvertido       |Windows       | B 
 | Agustín         | H / 64   | Médico     | Baja       | Racional     |Móvil       | B 
+| Paula         | H / 35   | Ama de casa     | Media       | Extrovertida     |Móvil       | B 
 
 ## 4. Pruebas diseñadas (Basadas en A/B testing)
 
