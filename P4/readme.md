@@ -1,5 +1,9 @@
 # DIU - Practica 4, entregables
 
+## Práctica B asignada
+La práctica B que se nos ha asignado es la del grupo**DIU2.Padulink**. Link del GitHub: https://github.com/VeraJose05/UX_CaseStudy
+
+
 >>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
