@@ -30,7 +30,10 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 ### 4.1 Eye Tracking
 
-Este estudio de eye tracking se llevó a cabo para analizar el comportamiento de los usuarios mientras realizan una tarea. Los uaurios escogidos para las pruebas son Agustín y Jose Diego.
+Este estudio de eye tracking se llevó a cabo para analizar el comportamiento de los usuarios mientras realizan una tarea especifica dentro del caso B. Los usuarios escogidos para las pruebas son Agustín y Jose Diego.
+
+La tarea a realizar es la siguiente:
+* Acceder a los tallerres disponibles, escoger uno y  finalmente reservarlo.
 
 Los objetivos de este estudio son:
 
@@ -38,10 +41,23 @@ Los objetivos de este estudio son:
 * Analizar patrones de fijación y movimientos oculares.
 * Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
+Los participantes han realizado este test de unos 20 segundos aproximadamente mediante el uso de la herramienta Gaze Recorder.
+
+#### Resultados del Eye Tracking del caso B:
 
 ![EyeTracking](EyeTracking/EyeTracking.png)
 
-Resultados del Eye Tracking de la tarea B:
+#### Conclusiones del test
+
+Con este test hemos comprobado que lo primero en lo que se fijan las personas al entrar al sitio web es el banner para explorar talleres lo cual es algo positivo ya que está es la principal funcionalidad que nos ofrece este sitio.
+
+Más adelante comprobamos que una vez seleccionada la opción de explorar talleres, lo siguiente que nos aparece por pantalla son los talleres recientemente añadidos y los talleres más populares, recibiendo estos últimos la principal atención del usuario.
+
+Una vez seleccionado un taller, nos encontramos con toda la información del taller y las opciones de reserva y descraga en pdf de este. Aqui nos hemos dado cuenta como los usuarios se fijan por igual en toda la descripción del taller. Sin embargo, los botones de reservar y descargar el PDF no reciben mucha atención del usuario hasta que no se tiene la intención de reservarlo, por lo que se concluye que no llaman mucho la atención.
+
+Por último, accedemos a la pantalla para reservar el taller donde se selecciona la fecha y se confirma la compra. Etse apartado está bien diseñado ya que se puede ver como el usuario ha distinguido bien los distintos apartados además de haber identificado claramente el botón de pago.
+
+Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segundos en llegar a la pantalla final por lo que se entiene que es bastante ficiente el sitio en cuanto a navegación y busqueda además de que están bien distribuidos la mayoría de los elementos.
 
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
