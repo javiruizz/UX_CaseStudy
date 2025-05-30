@@ -63,9 +63,16 @@ Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segun
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
 
-[Explicar]
+Esta herramienta nos ayudará a medir la usabilidad de los dos casos A y B. Para ello, se presentará a los usuarios un cuestionario de unas 10 preguntas simples. Este cuestionario tiene como opciones de respuesta un valor entre 1 - 5 , que van desde "Completamente en desacuerdo" hasta "Completamente de acuerdo". las preguntas que aparecen tiene como único objetivo estudir el nivel general de usabilidad del sistema.
+
+Los resultados obtenidos junto a la valoración final son los siguientes:
 
 ![Cuestionario SUS](Cuestionario_SUS.png)
+
+#### Conclusiones
+
+* El caso A (el nuestro) ha obtenido una puntuación media de 78/100, lo que deja un SUS Score de "Good" según la escala adjetiva. La valoración final deja un nivel de usabilidad aceptable.
+* El caso B (el de otros compañeros de clase) ha obtenido una puntuación media de 67/100, lo que deja un SUS Score de "OK" según la escala adjetiva. La valoración final deja un grado de usabilidad medianamente aceptable.
 
 ### 4.3 Checklist de usabilidad
 
