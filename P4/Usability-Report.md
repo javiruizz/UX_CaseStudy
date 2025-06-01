@@ -81,7 +81,6 @@ Los objetivos de este estudio son:
 * Analizar patrones de fijación y movimientos oculares.
 * Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
-¡¡¡¡¡¡¡¡¡¡     ACTUALIZAR FOTO     !!!!!!!!!!!!!!!!!!!!!
 ![EyeTracking](EyeTracking/EyeTracking.png)
 
 #### Conclusiones del eye tracking
