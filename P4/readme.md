@@ -63,7 +63,7 @@ Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segun
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
 
-Esta herramienta nos ayudará a medir la usabilidad de los dos casos A y B. Para ello, se presentará a los usuarios un cuestionario de unas 10 preguntas simples. Este cuestionario tiene como opciones de respuesta un valor entre 1 - 5 , que van desde "Completamente en desacuerdo" hasta "Completamente de acuerdo". las preguntas que aparecen tiene como único objetivo estudir el nivel general de usabilidad del sistema.
+Esta herramienta nos ayudará a medir la usabilidad de los dos casos A y B. Para ello, se presentará a los usuarios un cuestionario de unas 10 preguntas simples. Este cuestionario tiene como opciones de respuesta un valor entre 1 - 5 , que van desde "Completamente en desacuerdo" hasta "Completamente de acuerdo". Las preguntas que aparecen tiene como objetivo estudiar el nivel general de usabilidad del sistema.
 
 Los resultados obtenidos junto a la valoración final son los siguientes:
 
