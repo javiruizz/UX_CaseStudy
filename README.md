@@ -296,8 +296,6 @@ https://www.figma.com/design/SEPZABWTM9ji8luZB7NLhH/layout-hi-fi?t=NX5bp4nb2HtKa
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
 
 El caso B que se nos ha asignado es el del grupo **DIU2.Padulink**. 
 
