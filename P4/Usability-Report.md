@@ -67,6 +67,7 @@ Los usuarios reales que se han elegido para participar en este estudio y a los q
 
 #### Resultados obtenidos
 
+---
 #### Eye Tracking
 
 Este test se llevó a cabo para analizar el comportamiento de los usuarios mientras realizan una tarea especifica dentro del caso B.
@@ -95,6 +96,7 @@ Por último, accedemos a la pantalla para reservar el taller donde se selecciona
 
 Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segundos en llegar a la pantalla final por lo que se entiende que es bastante eficiente el sitio en cuanto a navegación y busqueda además de que están bien distribuidos la mayoría de los elementos.
 
+---
 #### Cuestionario SUS (System Usability Scale Test)
 
 Esta herramienta nos ayudará a medir la usabilidad de los dos casos A y B. Para ello, se presentará a los usuarios un cuestionario de unas 10 preguntas simples. Este cuestionario tiene como opciones de respuesta un valor entre 1 - 5 , que van desde "Completamente en desacuerdo" hasta "Completamente de acuerdo". Las preguntas que aparecen tiene como objetivo estudiar el nivel general de usabilidad del sistema.
@@ -108,6 +110,7 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 * El caso A (el nuestro) ha obtenido una puntuación media de 78/100, lo que deja un SUS Score de "Good" según la escala adjetiva. La valoración final deja un nivel de usabilidad aceptable.
 * El caso B (el de otros compañeros de clase) ha obtenido una puntuación media de 67/100, lo que deja un SUS Score de "OK" según la escala adjetiva. La valoración final deja un grado de usabilidad medianamente aceptable.
 
+---
 #### Checklist de usabilidad
 
 [Completar]
@@ -115,17 +118,15 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 
 ## 4 CONCLUSIONES 
 
+Como conclusión se nos presenta una interfaz clara y sencilla con buenos niveles de contraste, lo cual favorece a la lectura y la navegación. También se ha observado una  tipografía e iconos simples y legibles que no producen dificultades a la hora de leer.
 
+Sin embargo, hemos podido comprobar como algunos botones para realizar determinadas acciones no tienen una buena posición dentro de la página, lo cual puede hacer un poco más complicada la navegación de los usuarios afectando directamente a su satisfacción/experiencia, especialmente de aquellos que no no están muy familiarizados con las tecnologías.
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+A pesar del problema de los botones y del diseño un poco confuso en algunos momentos,los demás aspectos están bien implementados y da una sensación de aplicación móvil bastante buena.
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+No ha habido ningún tipo de incidencia.
 
 #### Valoración 
 
@@ -136,10 +137,6 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 #### Recomendaciones y propuesta de mejoras: 
 
 * (Puntos de mejora)
-
-
-
-
 
 
 
