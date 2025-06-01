@@ -84,6 +84,8 @@ En los siguientes enlaces se puede encontrar los checklist de usabilidad de los 
 
 [Usability-review_B](Usability-review_A.pdf)
 
+Como podemos observar, se presentan puntuaciones muy parecidads en ambos casos (76 puntos en el caso A y 75 en el B). Por lo tanto, vemos que ambas páginas tienen un nivel aceptable de usabilidad, sin llegar a ser excelentes. Cabe destacar que hay ciertos apartados que no se han podido evaluar debido a que no se encontraban implementados o son funcionalidades propias de un mavegador web.
+
 ## 5. Usability Report del Caso B
 
 El informe de usabilidad del caso B "Granada Cooking" nos permite ver tanto sus puntos positivos como sus negativos los cuales nos dan la posibilidad de conocer que puntos deben ser mejorados. Dicha aplicación, orientada a personas interesadas en perfeccionar sus habilidades culinarias mediante formación en línea, nos presenta una interfaz clara y sencilla con buenos niveles de contraste, lo cual favorece a la lectura y la navegación. Sin embargo, hemos podido comprobar como algunos botones para realizar determinadas acciones no tienen una buena posición dentro de la página, lo cual puede hacer un poco más complicada la navegación de los usuarios afectando directamente a su satisfacción/experiencia.
