@@ -112,7 +112,13 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 ---
 #### Checklist de usabilidad
 
-[Completar]
+En los siguientes enlaces se puede encontrar los checklist de usabilidad de los casos A y B.
+
+[Usability-review_A](Usability-review_A.pdf)
+
+[Usability-review_B](Usability-review_A.pdf)
+
+Como podemos observar, se presentan puntuaciones muy parecidads en ambos casos (76 puntos en el caso A y 75 en el B). Por lo tanto, vemos que ambas páginas tienen un nivel aceptable de usabilidad, sin llegar a ser excelentes. Cabe destacar que hay ciertos apartados que no se han podido evaluar debido a que no se encontraban implementados o son funcionalidades propias de un mavegador web.
 
 
 ## 4 CONCLUSIONES 
