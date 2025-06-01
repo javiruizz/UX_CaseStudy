@@ -332,9 +332,9 @@ Los participantes han realizado este test de unos 20 segundos aproximadamente me
 
 #### Resultados del Eye Tracking del caso B:
 
-![EyeTracking](EyeTracking/EyeTracking.png)
+![EyeTracking](P4/EyeTracking/EyeTracking.png)
 
-![EyeTrackingAreas](EyeTracking/EyeTrackingAreas.png)
+![EyeTrackingAreas](P4/EyeTracking/EyeTrackingAreas.png)
 Somos conscientes de la baja calidad de resolución de la segunda imagen, sin embargo, nos pedía hacernos una cuenta de pago para poder exportar las imágenes con calidad.
 
 #### Conclusiones del test
@@ -356,7 +356,7 @@ Esta herramienta nos ayudará a medir la usabilidad de los dos casos A y B. Para
 
 Los resultados obtenidos junto a la valoración final son los siguientes:
 
-![Cuestionario SUS](Cuestionario_SUS.png)
+![Cuestionario SUS](P4/Cuestionario_SUS.png)
 
 #### Conclusiones
 
@@ -367,9 +367,9 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 
 En los siguientes enlaces se puede encontrar los checklist de usabilidad de los casos A y B.
 
-[Usability-review_A](Usability-review_A.pdf)
+[Usability-review_A](P4/Usability-review_A.pdf)
 
-[Usability-review_B](Usability-review_A.pdf)
+[Usability-review_B](P4/Usability-review_A.pdf)
 
 Como podemos observar, se presentan puntuaciones muy parecidads en ambos casos (76 puntos en el caso A y 75 en el B). Por lo tanto, vemos que ambas páginas tienen un nivel aceptable de usabilidad, sin llegar a ser excelentes. Cabe destacar que hay ciertos apartados que no se han podido evaluar debido a que no se encontraban implementados o son funcionalidades propias de un mavegador web.
 
@@ -379,7 +379,7 @@ El informe de usabilidad del caso B "Granada Cooking" nos permite ver tanto sus 
 
 Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, revelaron la necesidad de mejorar el diseño y accesibilidad de la plataforma teniendo en mente a aquellos con menos experiencia con las tecnologías. Las técnicas utilizadas, como los estudios de eyetracking , los cuestionarios SUS y los checklist de usabilidad, fueron útiles para descubrir estos puntos e identificar posibles soluciones , como ajustar las posiciónes de algunos botones y mejorar el diseño, lo cual afectará positivamente a la experiencia del usuario.
 
-Para más información ->  [Usability Report](Usability-Report.md)
+Para más información ->  [Usability Report](P4/Usability-Report.md)
 
 ### 4.5. Conclusiones
 
