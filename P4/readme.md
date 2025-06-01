@@ -88,14 +88,10 @@ Para más información ->  [Usability Report](Usability-Report.md)
 
 ## 6. Conclusiones
 
+En esta práctica hemos llevado a cabo el estudio de la usabilidad tanto de nuestra aplicación como de la del grupo DIU2.Padulink con su proyecto "Granada Cooking". Para ello hemo usado el método A/B testing junto con la realización de varios test ( eye tracking, cuestionario SUS, checklist de usabilidad) para los que se han reunido a una serie de participantes los cuales son usuarios a los que se les han realizado los diferentes test.
 
-## Cosas que hacer
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
-- Conclusiones
-- https://github.com/AlvareitorHD/DIU2/tree/master/P4
+Estos test realizados a los usuarios nos han revelado tantos puntos buenos como partes ha mejores de ambos proyectos. Esto nos ha ayuddo a la hora de planificar futuros cambios con la idea de mejorar la satisfacción y las experiencias de los usuarios.
 
+En cuanto a la distribución del trabajo, nos lo hemos repartido todo de manera equitativa además de que hemos trabajo muy bien sin tener ningun tipo de problema. Apoyandonos entre nosotros cuando teniamos algún tipo de duda o algo no nos quedaba claro.
+
+En definitiva, esta práctica nos ha servido para tener ua idea más precisa y clara sobre el nivel de usabilidad de nuestro proyectos y tener en mente futuros cambios que se puedan llegar a implementar.
