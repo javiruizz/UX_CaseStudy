@@ -134,10 +134,10 @@ Como puntos de mejora , se podría dar un lavado al diseño visual y a la estrcu
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-La prueba de usabilidad ha sido útil para identificar algunos fallos en la aplicación "L de Lectura". A través de los cuestionarios SUS y del estudio de eyetracking hemos obtenido una visión clara y objetiva de cómo interactúan los usuarios con la aplicación y cuáles son sus dificultades.
+Las pruebas de usabilidad nos han resultado bastante útiles a la hora de analizar la aplicación "Granada Cooking". Mediante el uso de distintos test y del método A/B testing hemos podido identificar de manera más clara y precisa cuales son sus puntos fuertes y las áreas a mejorar.
 
-Gracias a la diversidad de los participantes hemos podido obtener una perspectiva amplia y diversa sobre los problemas de usabilidad.
+También hemos podido ver desde otra perspectiva posibles cambios que se podrían implementar gracias al uso de distintos participantes a los que se les han realizado diversos test.
 
-Los cuestionarios SUS y el eyetracking nos ha proporcionado un feedback específico sobre áreas clave de la aplicación que requieren mejoras.
+Gracias al uso de test como el eye tracking, los cuationarios SUS y el checklist de usabilidad hemos podido obtener información sobre áreas distintas ofreciendonos una visión más grande y clara sobre toda la aplicación.
 
-Como conclusión, las pruebas han sido muy beneficiosas y las técnicas empleadas han demostrado su eficacia y han proporcionado insights valiosos para guiar futuras mejoras y asegurar una experiencia de usuario óptima.
+Como conclusión, las pruebas nos han sido muy beneficiosas y las técnicas empleadas han demostrado su eficacia, proporcionado información valiosa para implementar futuras mejoras y aumenatr positivamente las experiencia del usuario.
