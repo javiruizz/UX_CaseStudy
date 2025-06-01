@@ -408,7 +408,11 @@ En definitiva, esta práctica nos ha servido para tener ua idea más precisa y c
 ## Conclusiones finales & Valoración de las prácticas
 
 El proceso de desarrollo de diseño siguiendo metología UX nos ha ayudado a comprender muchos conceptos del diseño de interfaces de usuario. 
-El hecho de que las prácticas sean un proceso continuo, desde el estudio del diseño de la competencia, hasta el desarrollo de nuestra propia interfaz nos ha ayudado a comprender los desafíos que se enfrentan a la hora de desarrollar un proyecto tan complejo. Como propuesta de mejora, nos gustaría destacar menos ambigüedad en las instrucciones de las prácticas. No obstante, también creemos que dicha ambiguedad puede ser un aspecto positivo, pues explota la creatividad y potencia el pensamiento crítico y la toma de decisiones autónoma.
+El hecho de que las prácticas sean un proceso continuo, desde el estudio del diseño de la competencia, hasta el desarrollo de nuestra propia interfaz nos ha ayudado a comprender los desafíos que se enfrentan a la hora de desarrollar un proyecto tan complejo. 
+
+En general, la asignatura nos ha parecido bastante útil, ya que hasta entonces, solo habíamos dado pequeñas pinceladas de diseño de interfaces en otras asignaturas. En DIU hemos conocido por primera vez herramientas como Figma, ampliamente utilizada en el ámbito del desarrollo de software.
+
+Como propuesta de mejora, nos gustaría destacar menos ambigüedad en las instrucciones de las prácticas. No obstante, también creemos que dicha ambiguedad puede ser un aspecto positivo, pues explota la creatividad y potencia el pensamiento crítico y la toma de decisiones autónoma.
 
 En general, estamos muy contentos con nuestro trabajo. Si bien es cierto que la interfaz de usuario es mejorable, creemos que hemos abarcado los aspectos principales que require un comercio web sostenible.
 
