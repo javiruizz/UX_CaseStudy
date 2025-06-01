@@ -47,6 +47,9 @@ Los participantes han realizado este test de unos 20 segundos aproximadamente me
 
 ![EyeTracking](EyeTracking/EyeTracking.png)
 
+![EyeTrackingAreas](EyeTracking/EyeTrackingAreas.png)
+Somos conscientes de la baja calidad de resolución de la segunda imagen, sin embargo, nos pedía hacernos una cuenta de pago para poder exportar las imágenes con calidad.
+
 #### Conclusiones del test
 
 Con este test hemos comprobado que lo primero en lo que se fijan las personas al entrar al sitio web es el banner para explorar talleres lo cual es algo positivo ya que está es la principal funcionalidad que nos ofrece este sitio.
