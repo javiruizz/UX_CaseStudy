@@ -76,7 +76,15 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 
 ### 4.3 Checklist de usabilidad
 
-## 5. Usability Report
+[Completar]
+
+## 5. Usability Report del Caso B
+
+El informe de usabilidad del caso B "Granada Cooking" nos permite ver tanto sus puntos positivos como sus negativos los cuales nos dan la posibilidad de conocer que puntos deben ser mejorados. Dicha aplicación, orientada a personas interesadas en perfeccionar sus habilidades culinarias mediante formación en línea, nos presenta una interfaz clara y sencilla con buenos niveles de contraste, lo cual favorece a la lectura y la navegación. Sin embargo, hemos podido comprobar como algunos botones para realizar determinadas acciones no tienen una buena posición dentro de la página, lo cual puede hacer un poco más complicada la navegación de los usuarios afectando directamente a su satisfacción/experiencia.
+
+Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, revelaron la necesidad de mejorar el diseño y accesibilidad de la plataforma teniendo en mente a aquellos con menos experiencia con las tecnologías. Las técnicas utilizadas, como los estudios de eyetracking , los cuestionarios SUS y los checklist de usabilidad, fueron útiles para descubrir estos puntos e identificar posibles soluciones , como ajustar las posiciónes de algunos botones y mejorar el diseño, lo cual afectará positivamente a la experiencia del usuario.
+
+Para más información ->  [Usability Report](Usability-Report.md)
 
 ## 6. Conclusiones
 
