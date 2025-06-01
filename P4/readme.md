@@ -78,7 +78,10 @@ Los resultados obtenidos junto a la valoración final son los siguientes:
 
 ### 4.3 Checklist de usabilidad
 
-[Completar]
+En los siguientes enlaces se puede encontrar los checklist de usabilidad de los casos A y B.
+
+[Usability-review_A](Usability-review_A.pdf)
+[Usability-review_B](Usability-review_A.pdf)
 
 ## 5. Usability Report del Caso B
 
