@@ -58,7 +58,7 @@ Una vez seleccionado un taller, nos encontramos con toda la información del tal
 
 Por último, accedemos a la pantalla para reservar el taller donde se selecciona la fecha y se confirma la compra. Etse apartado está bien diseñado ya que se puede ver como el usuario ha distinguido bien los distintos apartados además de haber identificado claramente el botón de pago.
 
-Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segundos en llegar a la pantalla final por lo que se entiene que es bastante ficiente el sitio en cuanto a navegación y busqueda además de que están bien distribuidos la mayoría de los elementos.
+Finalizamos comentando que ambos usuarios han tardado una media de unos 20 segundos en llegar a la pantalla final por lo que se entiende que es bastante eficiente el sitio en cuanto a navegación y busqueda además de que están bien distribuidos la mayoría de los elementos.
 
 
 ### 4.2 Cuestionario SUS (System Usability Scale Test)
