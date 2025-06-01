@@ -128,18 +128,16 @@ A pesar del problema de los botones y del diseño un poco confuso en algunos mom
 
 No ha habido ningún tipo de incidencia.
 
-#### Valoración 
-
-* (Puntos Positivos a destacar)
-
-
-
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
+Como puntos de mejora , se podría dar un lavado al diseño visual y a la estrcuitra de los elementos para que fuese más accesible para aquellas personas con algun tipo de deficiencia o las que no están muy acostumbradas al uso de las nuevas tecnologías. Todo esto afectaría positivamente a los usuarios y a la aplicación aportando mejores experiencias y sensaciones.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La prueba de usabilidad ha sido útil para identificar algunos fallos en la aplicación "L de Lectura". A través de los cuestionarios SUS y del estudio de eyetracking hemos obtenido una visión clara y objetiva de cómo interactúan los usuarios con la aplicación y cuáles son sus dificultades.
+
+Gracias a la diversidad de los participantes hemos podido obtener una perspectiva amplia y diversa sobre los problemas de usabilidad.
+
+Los cuestionarios SUS y el eyetracking nos ha proporcionado un feedback específico sobre áreas clave de la aplicación que requieren mejoras.
+
+Como conclusión, las pruebas han sido muy beneficiosas y las técnicas empleadas han demostrado su eficacia y han proporcionado insights valiosos para guiar futuras mejoras y asegurar una experiencia de usuario óptima.
