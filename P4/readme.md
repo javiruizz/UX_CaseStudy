@@ -46,6 +46,7 @@ Los participantes han realizado este test de unos 20 segundos aproximadamente me
 #### Resultados del Eye Tracking del caso B:
 
 ![EyeTracking](EyeTracking/EyeTracking.png)
+
 ![EyeTrackingAreas](EyeTracking/EyeTrackingAreas.png)
 Somos conscientes de la baja calidad de resolución de la segunda imagen, sin embargo, nos pedía hacernos una cuenta de pago para poder exportar las imágenes con calidad.
 
