@@ -299,17 +299,20 @@ https://www.figma.com/design/SEPZABWTM9ji8luZB7NLhH/layout-hi-fi?t=NX5bp4nb2HtKa
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso B que se nos ha asignado es el del grupo **DIU2.Padulink**. 
 
+Link del GitHub: https://github.com/VeraJose05/UX_CaseStudy
 
+Los usuarios reales que se han elegido para participar en este estudio y a los que se les realizarán pruebas futuras son:
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| Usuarios    | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Javier          | H / 51   |  Director    | Media       | Persistente | Windows      | A 
+| Cristina         | M / 19   | Estudiante    | Alta        | Extrovertida | Móvil    | A 
+| Samuel         | H / 31   | Bombero    | Media/Alta        | Social | Linux    | A 
+| Jose Diego          | H / 28   | Trabajador  | Alta        | Introvertido       |Windows       | B 
+| Agustín         | H / 64   | Médico     | Baja       | Racional     |Móvil       | B 
+| Paula         | M / 35   | Ama de casa     | Media       | Extrovertida     |Móvil       | B 
 
 
 ### 4.b Diseño de las pruebas 
