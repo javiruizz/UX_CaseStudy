@@ -45,7 +45,6 @@ Los participantes han realizado este test de unos 20 segundos aproximadamente me
 
 #### Resultados del Eye Tracking del caso B:
 
-¡¡¡¡¡¡¡¡¡¡     ACTUALIZAR FOTO     !!!!!!!!!!!!!!!!!!!!!
 ![EyeTracking](EyeTracking/EyeTracking.png)
 
 #### Conclusiones del test
